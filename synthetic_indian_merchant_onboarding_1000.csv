@@ -1,0 +1,1001 @@
+merchant_id,signup_datetime,cohort,entity_type,mcc_category,state,city_tier,step1_otp_verified,step2_business_kyc_completed,step3_penny_drop_success,step4_esign_completed,step5_sandbox_tested,is_activated_7d,activation_datetime,ttft_hours,kyc_failure_reason,estimated_monthly_gmv_inr
+MID_100000,2025-10-21 18:07:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,False,,,None,59219.31
+MID_100001,2025-12-03 08:47:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,West Bengal,Tier-2,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,264033.02
+MID_100002,2025-11-06 11:14:00,Control (Legacy Flow),Partnership,Logistics / Services,Telangana,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,456042.86
+MID_100003,2025-10-27 19:06:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-10-28 00:33:00,5.45,None,92811.26
+MID_100004,2025-11-24 18:47:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,440319.97
+MID_100005,2025-10-29 16:05:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-29 17:16:24,1.19,None,479593.13
+MID_100006,2025-10-20 17:27:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,406444.82
+MID_100007,2025-10-25 08:01:00,Control (Legacy Flow),Partnership,Healthcare / Education,Rajasthan,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,61221.42
+MID_100008,2025-12-09 11:14:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,236513.62
+MID_100009,2025-12-02 16:38:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Telangana,Tier-1,True,True,True,True,True,False,,,None,272779.25
+MID_100010,2025-11-05 08:35:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,556486.8
+MID_100011,2025-10-02 11:45:00,Control (Legacy Flow),LLP,Retail / D2C,West Bengal,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,115456.8
+MID_100012,2025-10-22 19:34:00,Control (Legacy Flow),LLP,Logistics / Services,Gujarat,Tier-2,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,236508.11
+MID_100013,2025-10-16 11:28:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,141022.81
+MID_100014,2025-10-18 20:55:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,32630.6
+MID_100015,2025-12-08 20:51:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,197144.46
+MID_100016,2025-11-23 10:44:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,339474.78
+MID_100017,2025-10-30 13:17:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,422238.45
+MID_100018,2025-11-14 11:48:00,Control (Legacy Flow),Partnership,Retail / D2C,Delhi NCR,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,484441.42
+MID_100019,2025-10-19 09:05:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Karnataka,Tier-1,True,True,True,True,True,True,2025-10-19 13:09:48,4.08,None,282453.3
+MID_100020,2025-12-26 14:06:00,Control (Legacy Flow),Private Limited,Logistics / Services,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,1266533.02
+MID_100021,2025-11-03 13:38:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-09 02:15:48,132.63,None,132924.08
+MID_100022,2025-10-13 12:51:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Logistics / Services,Karnataka,Tier-1,True,True,True,True,False,False,,,None,180698.42
+MID_100023,2025-11-12 08:46:00,Control (Legacy Flow),LLP,Retail / D2C,Karnataka,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,3227935.41
+MID_100024,2025-12-01 16:07:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Delhi NCR,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,108413.08
+MID_100025,2025-10-22 09:35:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Gujarat,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,1083739.51
+MID_100026,2025-11-21 18:39:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-21 21:52:12,3.22,None,121512.0
+MID_100027,2025-11-21 13:36:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Logistics / Services,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,52436.73
+MID_100028,2025-11-05 11:45:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,480153.68
+MID_100029,2025-12-12 08:42:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,580809.0
+MID_100030,2025-10-19 11:49:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,9896.96
+MID_100031,2025-11-07 09:54:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,9382.01
+MID_100032,2025-12-09 09:24:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,286441.02
+MID_100033,2025-12-18 12:29:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Uttar Pradesh,Tier-2,True,False,False,False,False,False,,,OCR Low Quality / Blur,211507.5
+MID_100034,2025-11-26 13:10:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,West Bengal,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,203927.13
+MID_100035,2025-10-20 13:13:00,Control (Legacy Flow),Private Limited,Retail / D2C,Gujarat,Tier-2,True,False,False,False,False,False,,,OCR Low Quality / Blur,364674.86
+MID_100036,2025-10-09 12:44:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,96627.93
+MID_100037,2025-11-01 18:04:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,26400.75
+MID_100038,2025-10-04 18:10:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Telangana,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,192117.14
+MID_100039,2025-11-19 19:15:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-11-19 21:21:00,2.1,None,373272.99
+MID_100040,2025-12-21 10:29:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,190431.71
+MID_100041,2025-10-05 14:17:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-10-05 16:45:12,2.47,None,67080.01
+MID_100042,2025-10-20 18:44:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,320892.15
+MID_100043,2025-12-26 11:43:00,Control (Legacy Flow),Private Limited,Retail / D2C,Rajasthan,Tier-2,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,96548.78
+MID_100044,2025-12-14 20:49:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Healthcare / Education,Karnataka,Tier-1,True,True,True,True,True,False,,,None,108707.18
+MID_100045,2025-11-06 08:14:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-11-06 11:01:24,2.79,None,25220.16
+MID_100046,2025-10-22 08:51:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,4047349.3
+MID_100047,2025-11-27 14:17:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-03 17:55:24,147.64,None,175893.39
+MID_100048,2025-12-07 09:13:00,Control (Legacy Flow),Partnership,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,96593.82
+MID_100049,2025-11-13 17:56:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,283497.44
+MID_100050,2025-11-03 13:13:00,Control (Legacy Flow),Partnership,SaaS / B2B Tech,West Bengal,Tier-2,True,True,True,True,True,False,,,None,298918.08
+MID_100051,2025-12-16 18:31:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Telangana,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,279575.66
+MID_100052,2025-11-11 18:29:00,Control (Legacy Flow),LLP,Retail / D2C,Uttar Pradesh,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,318704.04
+MID_100053,2025-10-09 12:08:00,Control (Legacy Flow),Private Limited,Logistics / Services,Rajasthan,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,14431.62
+MID_100054,2025-10-07 19:35:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Healthcare / Education,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-10-07 21:38:36,2.06,None,102079.4
+MID_100055,2025-12-07 16:16:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Uttar Pradesh,Tier-2,True,True,True,True,True,True,2025-12-07 16:50:12,0.57,None,2735767.19
+MID_100056,2025-10-19 19:37:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-20 00:12:24,4.59,None,2463539.64
+MID_100057,2025-10-31 14:57:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,368986.55
+MID_100058,2025-11-04 14:23:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-06 14:44:36,48.36,None,48612.31
+MID_100059,2025-11-26 11:08:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,111830.66
+MID_100060,2025-12-24 09:48:00,Control (Legacy Flow),Partnership,Retail / D2C,Karnataka,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,120356.43
+MID_100061,2025-11-30 09:09:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,605135.54
+MID_100062,2025-10-31 10:50:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Gujarat,Tier-2,True,True,True,True,True,False,,,None,24865.85
+MID_100063,2025-12-22 18:27:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,False,,,None,557435.22
+MID_100064,2025-11-22 17:04:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,False,,,None,437063.13
+MID_100065,2025-11-01 14:24:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,369471.58
+MID_100066,2025-12-05 17:29:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,266336.47
+MID_100067,2025-11-28 12:35:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Gujarat,Tier-2,True,True,True,True,True,True,2025-11-28 13:19:24,0.74,None,205830.62
+MID_100068,2025-10-10 08:43:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,190035.15
+MID_100069,2025-10-02 09:43:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Kerala,Tier-3,True,True,True,True,True,False,,,None,131712.08
+MID_100070,2025-12-05 16:48:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Telangana,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,49067.9
+MID_100071,2025-11-29 20:41:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-29 21:14:36,0.56,None,211875.92
+MID_100072,2025-12-27 13:07:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,80070.27
+MID_100073,2025-10-17 12:27:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Gujarat,Tier-2,True,True,True,True,False,False,,,None,406733.36
+MID_100074,2025-10-16 10:29:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Healthcare / Education,Telangana,Tier-1,True,True,True,True,True,False,,,None,26425.66
+MID_100075,2025-10-16 08:46:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Telangana,Tier-1,True,True,True,True,True,False,,,None,62237.91
+MID_100076,2025-11-15 19:16:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Telangana,Tier-1,True,True,True,True,True,True,2025-11-15 22:33:24,3.29,None,47583.08
+MID_100077,2025-11-08 16:48:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,87150.7
+MID_100078,2025-10-31 10:32:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Karnataka,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,110592.66
+MID_100079,2025-12-27 18:19:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Healthcare / Education,Maharashtra,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,88497.74
+MID_100080,2025-10-01 10:23:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Rajasthan,Tier-2,True,True,True,True,True,True,2025-10-01 14:03:12,3.67,None,363761.6
+MID_100081,2025-10-11 20:10:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,177391.8
+MID_100082,2025-12-24 16:49:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,696624.76
+MID_100083,2025-10-04 08:38:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Logistics / Services,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,25383.41
+MID_100084,2025-12-10 13:31:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-10 18:43:36,5.21,None,41323.74
+MID_100085,2025-10-26 08:07:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-10-26 08:55:00,0.8,None,545255.01
+MID_100086,2025-11-19 13:56:00,Control (Legacy Flow),Private Limited,Retail / D2C,Telangana,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,45416.24
+MID_100087,2025-10-12 11:03:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,70729.68
+MID_100088,2025-12-20 17:05:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Healthcare / Education,Rajasthan,Tier-2,True,True,True,True,False,False,,,None,585406.99
+MID_100089,2025-12-14 09:46:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,110603.19
+MID_100090,2025-12-04 09:48:00,Control (Legacy Flow),LLP,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,54226.4
+MID_100091,2025-11-16 16:49:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Logistics / Services,Telangana,Tier-1,True,True,True,True,True,True,2025-11-16 19:46:36,2.96,None,41515.32
+MID_100092,2025-11-22 10:08:00,Control (Legacy Flow),Private Limited,Retail / D2C,Telangana,Tier-1,True,True,True,True,False,False,,,None,23263.87
+MID_100093,2025-12-10 18:30:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,False,False,,,None,110098.32
+MID_100094,2025-10-02 16:10:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Telangana,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,262533.15
+MID_100095,2025-10-24 16:55:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-10-24 19:10:36,2.26,None,275041.51
+MID_100096,2025-10-04 17:27:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,123230.1
+MID_100097,2025-10-19 11:59:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,33142.18
+MID_100098,2025-10-26 20:46:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,57777.7
+MID_100099,2025-12-14 19:12:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,23213.29
+MID_100100,2025-11-09 14:42:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Maharashtra,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,138818.3
+MID_100101,2025-11-19 13:28:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,104080.24
+MID_100102,2025-11-12 16:28:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-12 18:38:48,2.18,None,103057.95
+MID_100103,2025-12-14 09:15:00,Control (Legacy Flow),LLP,F&B / Hospitality,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,84900.05
+MID_100104,2025-12-06 09:21:00,Control (Legacy Flow),LLP,Healthcare / Education,Rajasthan,Tier-2,True,True,True,True,False,False,,,None,212714.27
+MID_100105,2025-10-12 08:37:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,True,False,False,,,None,578053.07
+MID_100106,2025-12-06 16:14:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,230703.66
+MID_100107,2025-10-27 17:14:00,Control (Legacy Flow),Private Limited,Logistics / Services,Telangana,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,105574.81
+MID_100108,2025-11-23 09:45:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-23 12:10:12,2.42,None,94882.06
+MID_100109,2025-12-05 18:03:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-05 23:31:48,5.48,None,1300526.01
+MID_100110,2025-11-18 11:04:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Karnataka,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,51998.25
+MID_100111,2025-10-16 13:04:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,131317.57
+MID_100112,2025-10-02 11:17:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Uttar Pradesh,Tier-2,True,True,True,True,True,False,,,None,58367.15
+MID_100113,2025-11-29 18:31:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Gujarat,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,22750.65
+MID_100114,2025-11-23 16:08:00,Control (Legacy Flow),Private Limited,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,173529.17
+MID_100115,2025-10-30 17:36:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Rajasthan,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,33651.5
+MID_100116,2025-12-23 11:50:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Gujarat,Tier-2,True,True,True,True,True,False,,,None,159283.81
+MID_100117,2025-11-07 15:51:00,Control (Legacy Flow),Partnership,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-11 17:13:12,97.37,None,127319.44
+MID_100118,2025-10-28 14:12:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Rajasthan,Tier-2,True,True,True,False,False,False,,,UIDAI OTP Timeout,754906.11
+MID_100119,2025-10-25 09:42:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,356593.68
+MID_100120,2025-10-10 14:22:00,Control (Legacy Flow),Partnership,Healthcare / Education,Gujarat,Tier-2,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,18668.34
+MID_100121,2025-11-29 14:29:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Rajasthan,Tier-2,True,True,True,True,True,False,,,None,104472.79
+MID_100122,2025-11-11 19:03:00,Control (Legacy Flow),Partnership,Logistics / Services,Karnataka,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,175877.89
+MID_100123,2025-11-09 18:41:00,Control (Legacy Flow),Partnership,SaaS / B2B Tech,Maharashtra,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,22013.53
+MID_100124,2025-12-16 08:25:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Logistics / Services,Karnataka,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,176278.77
+MID_100125,2025-11-11 20:55:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,76231.27
+MID_100126,2025-11-16 09:15:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Gujarat,Tier-2,True,True,True,True,True,True,2025-11-16 11:13:48,1.98,None,60497.67
+MID_100127,2025-11-06 11:12:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Rajasthan,Tier-2,True,True,True,True,False,False,,,None,806279.87
+MID_100128,2025-12-19 16:28:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-19 20:55:00,4.45,None,330033.27
+MID_100129,2025-10-22 10:27:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,199240.91
+MID_100130,2025-11-26 10:17:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,268953.03
+MID_100131,2025-12-23 15:15:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,109928.3
+MID_100132,2025-10-27 15:51:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,87456.49
+MID_100133,2025-11-10 09:03:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,False,,,None,113787.58
+MID_100134,2025-12-19 18:34:00,Control (Legacy Flow),Private Limited,F&B / Hospitality,Uttar Pradesh,Tier-2,True,True,True,False,False,False,,,UIDAI OTP Timeout,151018.37
+MID_100135,2025-11-03 09:59:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-03 13:57:12,3.97,None,131505.52
+MID_100136,2025-11-01 20:54:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-11-02 02:03:36,5.16,None,213217.16
+MID_100137,2025-12-29 11:10:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Telangana,Tier-1,True,True,True,True,True,False,,,None,94033.66
+MID_100138,2025-12-28 14:31:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-28 18:11:12,3.67,None,221663.58
+MID_100139,2025-12-05 15:13:00,Control (Legacy Flow),Private Limited,Healthcare / Education,West Bengal,Tier-2,True,True,True,True,False,False,,,None,50771.34
+MID_100140,2025-10-12 14:57:00,Control (Legacy Flow),Partnership,Healthcare / Education,West Bengal,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,108534.04
+MID_100141,2025-11-09 10:24:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,False,,,None,106880.37
+MID_100142,2025-12-12 08:24:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,180258.37
+MID_100143,2025-12-15 12:59:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-15 13:29:36,0.51,None,1103441.12
+MID_100144,2025-12-29 20:50:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,147940.77
+MID_100145,2025-12-12 12:27:00,Control (Legacy Flow),Partnership,Healthcare / Education,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,9205.71
+MID_100146,2025-10-10 10:12:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-10-10 11:37:48,1.43,None,201768.95
+MID_100147,2025-11-17 12:13:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-11-17 17:58:00,5.75,None,276810.05
+MID_100148,2025-10-20 08:37:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,163635.96
+MID_100149,2025-11-08 19:34:00,Control (Legacy Flow),Partnership,Healthcare / Education,Karnataka,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,121642.96
+MID_100150,2025-11-29 19:20:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Rajasthan,Tier-2,True,True,True,True,True,False,,,None,32847.08
+MID_100151,2025-12-05 08:03:00,Control (Legacy Flow),Partnership,Retail / D2C,Karnataka,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,61444.49
+MID_100152,2025-12-04 16:58:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-05 05:50:48,12.88,None,70306.41
+MID_100153,2025-11-20 16:10:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,380892.47
+MID_100154,2025-11-05 16:05:00,Control (Legacy Flow),Private Limited,Retail / D2C,Kerala,Tier-3,True,True,True,False,False,False,,,UIDAI OTP Timeout,639457.92
+MID_100155,2025-10-24 09:38:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-10-24 10:53:36,1.26,None,3264577.35
+MID_100156,2025-10-27 09:43:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,96086.96
+MID_100157,2025-10-02 11:25:00,Control (Legacy Flow),Partnership,Retail / D2C,Telangana,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,153015.81
+MID_100158,2025-10-31 17:15:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-10-31 18:37:48,1.38,None,37029.59
+MID_100159,2025-11-26 17:38:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Telangana,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,133560.64
+MID_100160,2025-12-17 17:05:00,Control (Legacy Flow),Partnership,F&B / Hospitality,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,51030.15
+MID_100161,2025-12-05 18:37:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,1844111.13
+MID_100162,2025-10-29 12:13:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,384316.15
+MID_100163,2025-10-15 19:20:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-10-15 21:14:36,1.91,None,84229.19
+MID_100164,2025-10-12 11:16:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,116168.11
+MID_100165,2025-10-28 10:42:00,Control (Legacy Flow),Partnership,Logistics / Services,Gujarat,Tier-2,True,True,True,True,False,False,,,None,128324.85
+MID_100166,2025-12-23 18:19:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,F&B / Hospitality,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,46175.72
+MID_100167,2025-10-24 13:59:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,130811.59
+MID_100168,2025-10-21 08:29:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,112986.42
+MID_100169,2025-10-10 17:36:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,49987.52
+MID_100170,2025-12-17 09:34:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Tamil Nadu,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,283591.83
+MID_100171,2025-10-18 16:16:00,Control (Legacy Flow),LLP,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,4208.6
+MID_100172,2025-12-27 13:56:00,Control (Legacy Flow),Private Limited,Retail / D2C,Delhi NCR,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,122280.73
+MID_100173,2025-10-14 11:23:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,36707.98
+MID_100174,2025-11-03 10:28:00,Control (Legacy Flow),Private Limited,Retail / D2C,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,93381.89
+MID_100175,2025-11-27 19:19:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,30615.71
+MID_100176,2025-12-15 17:51:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Telangana,Tier-1,True,True,True,True,True,False,,,None,305518.91
+MID_100177,2025-10-22 18:33:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Karnataka,Tier-1,True,True,True,True,True,False,,,None,979205.1
+MID_100178,2025-12-09 08:42:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Uttar Pradesh,Tier-2,True,True,True,True,False,False,,,None,70743.61
+MID_100179,2025-11-05 16:19:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,25957.1
+MID_100180,2025-11-14 10:16:00,Control (Legacy Flow),LLP,Retail / D2C,Karnataka,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,566212.15
+MID_100181,2025-11-05 09:47:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,307614.63
+MID_100182,2025-10-22 10:17:00,Control (Legacy Flow),Private Limited,Retail / D2C,Uttar Pradesh,Tier-2,True,True,True,True,False,False,,,None,272381.64
+MID_100183,2025-12-17 12:38:00,Control (Legacy Flow),LLP,Retail / D2C,Rajasthan,Tier-2,True,False,False,False,False,False,,,PAN Not Found in NSDL,68868.17
+MID_100184,2025-12-19 19:21:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Karnataka,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,609451.06
+MID_100185,2025-11-30 18:40:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Logistics / Services,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,159289.32
+MID_100186,2025-11-25 12:32:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Gujarat,Tier-2,True,True,True,True,True,True,2025-11-29 00:21:48,83.83,None,3131600.99
+MID_100187,2025-12-28 15:16:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,240895.23
+MID_100188,2025-11-02 09:40:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,101090.51
+MID_100189,2025-11-14 14:53:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Karnataka,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,36456.17
+MID_100190,2025-11-05 08:00:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-22 07:17:24,407.29,None,19215.09
+MID_100191,2025-10-20 13:49:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Logistics / Services,Rajasthan,Tier-2,True,False,False,False,False,False,,,PAN Not Found in NSDL,245057.02
+MID_100192,2025-10-18 18:16:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Rajasthan,Tier-2,True,False,False,False,False,False,,,PAN Not Found in NSDL,22982.09
+MID_100193,2025-11-07 19:28:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,100291.11
+MID_100194,2025-12-06 19:27:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,239034.3
+MID_100195,2025-10-23 08:07:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-10-23 08:49:00,0.7,None,361385.42
+MID_100196,2025-10-16 09:56:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,SaaS / B2B Tech,Telangana,Tier-1,True,True,True,True,True,True,2025-10-16 14:11:00,4.25,None,208612.58
+MID_100197,2025-11-28 19:57:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Healthcare / Education,Rajasthan,Tier-2,True,True,True,True,False,False,,,None,83759.98
+MID_100198,2025-12-08 10:34:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Rajasthan,Tier-2,True,True,True,True,True,False,,,None,347031.0
+MID_100199,2025-12-07 08:53:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Telangana,Tier-1,True,True,True,True,True,False,,,None,76100.03
+MID_100200,2025-10-21 13:37:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Logistics / Services,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,361462.95
+MID_100201,2025-12-17 10:27:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,64992.94
+MID_100202,2025-12-17 08:19:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,468786.15
+MID_100203,2025-12-09 20:55:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Rajasthan,Tier-2,True,True,True,True,False,False,,,None,160020.17
+MID_100204,2025-10-12 08:57:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-10-12 14:43:12,5.77,None,292597.14
+MID_100205,2025-10-16 13:13:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Logistics / Services,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-16 15:17:48,2.08,None,35637.18
+MID_100206,2025-12-20 18:15:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-20 20:33:00,2.3,None,131059.93
+MID_100207,2025-12-26 18:06:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-12-26 19:16:48,1.18,None,53541.54
+MID_100208,2025-10-14 13:49:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-15 17:11:12,27.37,None,119023.49
+MID_100209,2025-11-30 16:56:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Logistics / Services,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-30 17:27:12,0.52,None,36817.34
+MID_100210,2025-12-10 14:39:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,92515.54
+MID_100211,2025-11-15 10:59:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Telangana,Tier-1,True,True,True,True,True,False,,,None,106944.47
+MID_100212,2025-11-01 11:55:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,141752.25
+MID_100213,2025-10-15 10:51:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Logistics / Services,Karnataka,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,54501.76
+MID_100214,2025-11-13 14:01:00,Control (Legacy Flow),Private Limited,F&B / Hospitality,Telangana,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,349620.26
+MID_100215,2025-10-17 19:59:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,32668.02
+MID_100216,2025-11-10 20:59:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-15 19:00:48,118.03,None,40106.82
+MID_100217,2025-11-23 14:51:00,Control (Legacy Flow),Private Limited,Retail / D2C,Telangana,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,574787.67
+MID_100218,2025-11-13 12:10:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,133110.01
+MID_100219,2025-10-05 09:24:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Gujarat,Tier-2,True,True,True,False,False,False,,,UIDAI OTP Timeout,204288.21
+MID_100220,2025-10-27 15:14:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-10-27 18:34:24,3.34,None,126422.71
+MID_100221,2025-12-26 11:52:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,138716.32
+MID_100222,2025-12-17 13:19:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,88558.86
+MID_100223,2025-12-18 11:01:00,Control (Legacy Flow),LLP,Retail / D2C,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,131109.97
+MID_100224,2025-11-12 11:25:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,74093.53
+MID_100225,2025-10-31 12:55:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,False,,,None,61450.22
+MID_100226,2025-10-17 09:49:00,Control (Legacy Flow),Proprietorship,Retail / D2C,West Bengal,Tier-2,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,740655.57
+MID_100227,2025-12-22 13:41:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-25 22:21:12,80.67,None,466096.26
+MID_100228,2025-11-23 16:25:00,Control (Legacy Flow),LLP,Retail / D2C,Rajasthan,Tier-2,True,False,False,False,False,False,,,OCR Low Quality / Blur,773341.59
+MID_100229,2025-12-01 16:21:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-12-05 04:48:36,84.46,None,69013.11
+MID_100230,2025-12-26 08:07:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,F&B / Hospitality,Gujarat,Tier-2,True,True,True,True,False,False,,,None,331082.41
+MID_100231,2025-11-01 12:11:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,458650.86
+MID_100232,2025-11-09 12:02:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,177251.81
+MID_100233,2025-10-13 17:27:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,123038.0
+MID_100234,2025-12-23 13:46:00,Control (Legacy Flow),Private Limited,F&B / Hospitality,Maharashtra,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,502629.75
+MID_100235,2025-11-04 14:38:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Telangana,Tier-1,True,True,True,True,False,False,,,None,723239.76
+MID_100236,2025-10-05 16:07:00,Control (Legacy Flow),Partnership,Healthcare / Education,Karnataka,Tier-1,True,True,True,True,True,False,,,None,76486.74
+MID_100237,2025-12-12 14:57:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,275110.82
+MID_100238,2025-10-29 12:02:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-10-29 14:41:36,2.66,None,991107.95
+MID_100239,2025-12-09 19:27:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-10 02:01:12,6.57,None,340513.25
+MID_100240,2025-10-25 08:33:00,Control (Legacy Flow),Partnership,Healthcare / Education,Uttar Pradesh,Tier-2,True,True,True,True,True,True,2025-10-31 10:28:48,145.93,None,1084522.34
+MID_100241,2025-10-22 20:34:00,Control (Legacy Flow),Private Limited,Retail / D2C,West Bengal,Tier-2,True,True,True,True,True,False,,,None,367379.62
+MID_100242,2025-12-05 18:46:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Uttar Pradesh,Tier-2,True,True,True,False,False,False,,,UIDAI OTP Timeout,415577.1
+MID_100243,2025-11-14 13:27:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Logistics / Services,Karnataka,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,224659.78
+MID_100244,2025-12-08 18:58:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-09 00:16:00,5.3,None,114261.97
+MID_100245,2025-12-30 13:39:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Uttar Pradesh,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,52889.91
+MID_100246,2025-12-28 18:54:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-29 03:35:24,8.69,None,285469.92
+MID_100247,2025-12-11 09:46:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,West Bengal,Tier-2,True,True,True,True,True,True,2025-12-13 17:06:24,55.34,None,158861.5
+MID_100248,2025-10-01 12:32:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,SaaS / B2B Tech,West Bengal,Tier-2,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,278249.17
+MID_100249,2025-12-23 18:26:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Gujarat,Tier-2,True,True,True,True,False,False,,,None,259442.2
+MID_100250,2025-11-13 13:25:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-14 05:25:36,16.01,None,117219.89
+MID_100251,2025-12-26 19:18:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Karnataka,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,583460.56
+MID_100252,2025-12-14 10:12:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Gujarat,Tier-2,True,True,True,True,True,True,2025-12-14 16:25:48,6.23,None,51295.65
+MID_100253,2025-11-08 14:42:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,240483.6
+MID_100254,2025-11-23 18:47:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,695189.06
+MID_100255,2025-12-27 17:36:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,610935.86
+MID_100256,2025-12-14 14:35:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Uttar Pradesh,Tier-2,True,True,True,False,False,False,,,UIDAI OTP Timeout,226076.5
+MID_100257,2025-10-29 12:18:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Telangana,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,34712.02
+MID_100258,2025-11-23 14:50:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,215171.07
+MID_100259,2025-12-29 15:28:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-29 17:01:00,1.55,None,7813456.45
+MID_100260,2025-10-16 15:43:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Tamil Nadu,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,228617.41
+MID_100261,2025-10-20 16:30:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Kerala,Tier-3,True,True,True,True,True,True,2025-10-20 17:58:48,1.48,None,308999.93
+MID_100262,2025-11-15 20:57:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,105858.32
+MID_100263,2025-12-06 10:42:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,279157.08
+MID_100264,2025-12-04 09:18:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Rajasthan,Tier-2,True,True,True,True,True,True,2025-12-04 16:36:36,7.31,None,362589.47
+MID_100265,2025-11-27 16:42:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Telangana,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,59862.02
+MID_100266,2025-11-22 17:21:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Telangana,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,80614.19
+MID_100267,2025-10-01 20:15:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Telangana,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,410351.53
+MID_100268,2025-12-20 11:51:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-20 12:23:24,0.54,None,274952.41
+MID_100269,2025-12-05 11:09:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-05 15:15:00,4.1,None,185757.7
+MID_100270,2025-10-29 08:02:00,Control (Legacy Flow),Private Limited,Retail / D2C,Gujarat,Tier-2,True,True,True,True,True,True,2025-10-31 20:02:36,60.01,None,140369.12
+MID_100271,2025-12-23 11:30:00,Control (Legacy Flow),Partnership,SaaS / B2B Tech,Gujarat,Tier-2,True,False,False,False,False,False,,,OCR Low Quality / Blur,48399.94
+MID_100272,2025-12-09 20:04:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Rajasthan,Tier-2,True,True,True,True,True,True,2025-12-09 21:40:36,1.61,None,3190926.41
+MID_100273,2025-10-08 15:26:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Uttar Pradesh,Tier-2,True,True,True,True,True,True,2025-10-08 17:57:12,2.52,None,456789.4
+MID_100274,2025-10-29 18:36:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,262477.68
+MID_100275,2025-11-20 19:44:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,210788.05
+MID_100276,2025-11-02 14:31:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Gujarat,Tier-2,True,True,True,True,True,True,2025-11-02 15:36:24,1.09,None,392997.85
+MID_100277,2025-10-03 14:15:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,False,False,,,None,253456.73
+MID_100278,2025-11-29 10:41:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Telangana,Tier-1,True,True,True,True,True,True,2025-12-03 17:27:48,102.78,None,213038.18
+MID_100279,2025-11-04 19:00:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Gujarat,Tier-2,True,True,True,True,True,False,,,None,81235.88
+MID_100280,2025-12-08 20:55:00,Control (Legacy Flow),Private Limited,Retail / D2C,Rajasthan,Tier-2,True,False,False,False,False,False,,,PAN Not Found in NSDL,45276.34
+MID_100281,2025-12-30 20:27:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Karnataka,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,2827237.99
+MID_100282,2025-12-15 10:51:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-15 12:07:48,1.28,None,24347.27
+MID_100283,2025-12-23 19:33:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-23 20:08:24,0.59,None,186721.07
+MID_100284,2025-10-20 15:03:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,4199.28
+MID_100285,2025-12-12 11:58:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,97870.21
+MID_100286,2025-11-08 15:08:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,229017.8
+MID_100287,2025-10-04 20:29:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-10-05 02:17:00,5.8,None,547518.24
+MID_100288,2025-10-19 18:33:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-10-19 19:21:00,0.8,None,186016.71
+MID_100289,2025-12-30 16:38:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,674211.11
+MID_100290,2025-11-14 20:57:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,303420.43
+MID_100291,2025-11-12 17:52:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-12 21:47:12,3.92,None,50363.93
+MID_100292,2025-10-13 19:57:00,Control (Legacy Flow),Private Limited,Retail / D2C,Gujarat,Tier-2,True,False,False,False,False,False,,,OCR Low Quality / Blur,147388.06
+MID_100293,2025-10-13 14:53:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,False,False,,,None,2022227.28
+MID_100294,2025-11-29 16:28:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-29 17:52:00,1.4,None,19642.5
+MID_100295,2025-11-26 10:47:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,110914.15
+MID_100296,2025-12-25 15:16:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Telangana,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,17782.86
+MID_100297,2025-11-21 18:17:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-23 10:50:00,40.55,None,417779.62
+MID_100298,2025-11-22 20:49:00,Control (Legacy Flow),Private Limited,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-11-24 03:11:48,30.38,None,173554.81
+MID_100299,2025-12-25 16:31:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,522265.56
+MID_100300,2025-11-12 12:28:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,380711.57
+MID_100301,2025-12-22 19:18:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,242165.3
+MID_100302,2025-12-11 12:21:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-11 16:38:24,4.29,None,39831.74
+MID_100303,2025-12-11 13:57:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,20300.55
+MID_100304,2025-11-11 16:05:00,Control (Legacy Flow),Private Limited,Logistics / Services,Telangana,Tier-1,True,True,True,True,True,True,2025-11-14 09:48:48,65.73,None,240434.49
+MID_100305,2025-12-29 10:09:00,Control (Legacy Flow),Partnership,SaaS / B2B Tech,West Bengal,Tier-2,True,True,True,True,True,False,,,None,147846.63
+MID_100306,2025-10-26 11:24:00,Control (Legacy Flow),Private Limited,Retail / D2C,Delhi NCR,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,6658.27
+MID_100307,2025-10-23 19:13:00,Control (Legacy Flow),Partnership,F&B / Hospitality,Karnataka,Tier-1,True,True,True,True,True,False,,,None,164545.9
+MID_100308,2025-11-12 09:26:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Gujarat,Tier-2,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,50430.15
+MID_100309,2025-12-16 13:34:00,Control (Legacy Flow),Partnership,Retail / D2C,Karnataka,Tier-1,True,True,True,True,False,False,,,None,38265.51
+MID_100310,2025-10-28 15:26:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,149211.92
+MID_100311,2025-10-09 11:53:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,557585.12
+MID_100312,2025-10-20 14:24:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,199784.33
+MID_100313,2025-11-25 20:37:00,Control (Legacy Flow),Partnership,F&B / Hospitality,West Bengal,Tier-2,True,True,True,False,False,False,,,UIDAI OTP Timeout,276216.96
+MID_100314,2025-12-22 20:36:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Gujarat,Tier-2,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,325492.99
+MID_100315,2025-11-08 15:00:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Telangana,Tier-1,True,True,True,True,True,True,2025-11-08 15:39:36,0.66,None,777300.73
+MID_100316,2025-11-20 13:19:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,120556.02
+MID_100317,2025-10-12 20:24:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,86520.86
+MID_100318,2025-12-18 16:47:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,44695.56
+MID_100319,2025-11-24 16:51:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,False,,,None,564142.18
+MID_100320,2025-12-17 17:57:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-17 18:28:48,0.53,None,713299.83
+MID_100321,2025-10-11 11:31:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Telangana,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,21927.56
+MID_100322,2025-10-26 12:27:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-10-26 13:29:24,1.04,None,17929.18
+MID_100323,2025-11-11 15:01:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-11 16:54:24,1.89,None,340064.8
+MID_100324,2025-10-27 14:21:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Healthcare / Education,West Bengal,Tier-2,True,True,True,True,True,False,,,None,28306.61
+MID_100325,2025-10-11 18:43:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Telangana,Tier-1,True,True,True,True,True,False,,,None,69286.72
+MID_100326,2025-11-07 20:25:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-11-08 01:01:00,4.6,None,206597.63
+MID_100327,2025-11-12 19:10:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,False,False,,,None,200927.97
+MID_100328,2025-10-19 15:58:00,Control (Legacy Flow),Private Limited,F&B / Hospitality,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,15937.55
+MID_100329,2025-12-03 10:39:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,15440.03
+MID_100330,2025-10-06 08:58:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,False,,,None,2207871.97
+MID_100331,2025-11-15 14:37:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Telangana,Tier-1,True,True,True,True,True,True,2025-11-15 21:18:24,6.69,None,376271.46
+MID_100332,2025-11-11 17:42:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,1413878.98
+MID_100333,2025-12-04 08:05:00,Control (Legacy Flow),LLP,F&B / Hospitality,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,210120.89
+MID_100334,2025-12-11 14:08:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-11 20:12:12,6.07,None,175464.36
+MID_100335,2025-11-28 15:11:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Maharashtra,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,1323340.75
+MID_100336,2025-11-21 12:24:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Gujarat,Tier-2,True,True,True,True,True,False,,,None,51117.41
+MID_100337,2025-11-16 13:13:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Telangana,Tier-1,True,True,True,True,True,False,,,None,250419.79
+MID_100338,2025-10-07 15:20:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,232667.82
+MID_100339,2025-10-11 13:48:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-11 14:52:12,1.07,None,2029140.62
+MID_100340,2025-11-30 14:17:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,395282.57
+MID_100341,2025-12-07 20:53:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-07 23:35:36,2.71,None,459097.02
+MID_100342,2025-10-25 14:16:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-25 15:16:00,1.0,None,55471.98
+MID_100343,2025-10-12 09:30:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,451126.16
+MID_100344,2025-10-26 08:47:00,Control (Legacy Flow),Private Limited,Logistics / Services,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,257680.51
+MID_100345,2025-10-12 08:22:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-10-13 03:43:00,19.35,None,372048.96
+MID_100346,2025-11-12 11:41:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-11-13 17:39:12,29.97,None,162573.92
+MID_100347,2025-11-20 09:49:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,87054.84
+MID_100348,2025-11-06 20:01:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Karnataka,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,1583653.37
+MID_100349,2025-11-15 11:53:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,140225.76
+MID_100350,2025-11-22 17:09:00,Control (Legacy Flow),Partnership,F&B / Hospitality,Delhi NCR,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,55876.15
+MID_100351,2025-12-27 10:30:00,Control (Legacy Flow),Private Limited,Logistics / Services,Gujarat,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,385810.34
+MID_100352,2025-12-19 09:36:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-12-19 13:33:36,3.96,None,423490.57
+MID_100353,2025-10-13 11:29:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,869444.51
+MID_100354,2025-12-28 20:23:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,88078.68
+MID_100355,2025-11-23 10:38:00,Control (Legacy Flow),Partnership,Retail / D2C,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,64482.16
+MID_100356,2025-11-26 19:45:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Logistics / Services,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,44254.56
+MID_100357,2025-10-04 09:49:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,117537.96
+MID_100358,2025-12-14 12:06:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Uttar Pradesh,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,35163.82
+MID_100359,2025-11-18 08:59:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,False,False,,,None,507986.55
+MID_100360,2025-10-07 12:36:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,False,,,None,820823.72
+MID_100361,2025-10-11 18:58:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,382482.46
+MID_100362,2025-11-23 14:45:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,347340.78
+MID_100363,2025-12-26 11:04:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,225821.32
+MID_100364,2025-11-14 19:53:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Uttar Pradesh,Tier-2,True,True,True,True,True,True,2025-11-14 21:22:24,1.49,None,162568.7
+MID_100365,2025-10-23 18:15:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,True,False,False,,,None,614736.08
+MID_100366,2025-10-28 09:44:00,Control (Legacy Flow),Private Limited,Retail / D2C,West Bengal,Tier-2,True,True,True,True,False,False,,,None,582350.65
+MID_100367,2025-11-26 20:19:00,Control (Legacy Flow),Partnership,SaaS / B2B Tech,Rajasthan,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,697738.2
+MID_100368,2025-10-26 17:51:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-27 19:25:12,25.57,None,275899.23
+MID_100369,2025-10-25 09:50:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-25 11:37:24,1.79,None,19920.62
+MID_100370,2025-11-23 17:50:00,Control (Legacy Flow),LLP,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,241215.54
+MID_100371,2025-10-29 13:34:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-29 16:35:48,3.03,None,61899.26
+MID_100372,2025-12-22 14:42:00,Control (Legacy Flow),Partnership,F&B / Hospitality,Maharashtra,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,362269.04
+MID_100373,2025-11-05 09:32:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Telangana,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,128965.18
+MID_100374,2025-10-14 08:54:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,49806.15
+MID_100375,2025-12-17 14:52:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-17 16:36:24,1.74,None,59369.29
+MID_100376,2025-11-04 15:06:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Gujarat,Tier-2,True,True,True,True,False,False,,,None,1591086.38
+MID_100377,2025-10-30 14:23:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,14576.52
+MID_100378,2025-10-17 15:45:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Gujarat,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,21418.01
+MID_100379,2025-12-06 14:11:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,131638.3
+MID_100380,2025-12-19 16:41:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-23 11:43:24,91.04,None,1943345.74
+MID_100381,2025-10-30 12:39:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Telangana,Tier-1,True,True,True,True,True,False,,,None,258717.18
+MID_100382,2025-11-14 20:58:00,Control (Legacy Flow),LLP,Logistics / Services,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,104758.16
+MID_100383,2025-12-18 20:30:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Rajasthan,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,130613.62
+MID_100384,2025-12-28 14:52:00,Control (Legacy Flow),Private Limited,Retail / D2C,Telangana,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,403202.93
+MID_100385,2025-11-20 17:17:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Gujarat,Tier-2,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,180613.93
+MID_100386,2025-11-16 11:53:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,False,,,None,43647.07
+MID_100387,2025-11-22 09:17:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-22 13:00:12,3.72,None,382986.01
+MID_100388,2025-12-03 15:15:00,Control (Legacy Flow),LLP,F&B / Hospitality,Telangana,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,32249.5
+MID_100389,2025-11-07 17:39:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Gujarat,Tier-2,True,True,True,True,True,True,2025-11-07 18:33:36,0.91,None,112401.98
+MID_100390,2025-12-03 18:24:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Kerala,Tier-3,True,True,False,False,False,False,,,IFSC Branch Inactive,14705.13
+MID_100391,2025-12-26 08:31:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-26 15:45:24,7.24,None,450533.26
+MID_100392,2025-12-28 13:11:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,False,,,None,1668664.71
+MID_100393,2025-10-07 15:13:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Telangana,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,762891.56
+MID_100394,2025-10-22 20:16:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Karnataka,Tier-1,True,True,True,True,True,True,2025-10-22 22:35:12,2.32,None,9073.78
+MID_100395,2025-12-20 13:17:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Uttar Pradesh,Tier-2,True,True,True,True,True,False,,,None,385123.17
+MID_100396,2025-12-21 17:44:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Gujarat,Tier-2,True,True,True,True,True,False,,,None,726398.99
+MID_100397,2025-11-10 12:35:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-11-10 14:23:00,1.8,None,23898.16
+MID_100398,2025-12-13 08:33:00,Control (Legacy Flow),Private Limited,F&B / Hospitality,Telangana,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,74708.74
+MID_100399,2025-10-10 09:15:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Telangana,Tier-1,True,True,True,True,True,True,2025-10-10 10:22:12,1.12,None,441614.74
+MID_100400,2025-11-26 19:26:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,128395.09
+MID_100401,2025-10-07 15:35:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Rajasthan,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,23478.7
+MID_100402,2025-11-19 19:30:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,169821.62
+MID_100403,2025-12-30 18:45:00,Control (Legacy Flow),Private Limited,Retail / D2C,Gujarat,Tier-2,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,107694.38
+MID_100404,2025-11-21 15:50:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-21 19:03:48,3.23,None,57794.61
+MID_100405,2025-11-02 08:05:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Rajasthan,Tier-2,True,True,True,True,True,False,,,None,318416.78
+MID_100406,2025-10-01 12:14:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,False,False,,,None,1083470.31
+MID_100407,2025-11-22 14:44:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Maharashtra,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,98108.23
+MID_100408,2025-11-29 12:42:00,Control (Legacy Flow),Private Limited,Logistics / Services,Rajasthan,Tier-2,True,True,True,True,True,True,2025-12-08 18:19:48,221.63,None,98237.82
+MID_100409,2025-11-03 17:23:00,Control (Legacy Flow),Partnership,SaaS / B2B Tech,Maharashtra,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,97934.02
+MID_100410,2025-10-04 16:33:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Karnataka,Tier-1,True,True,True,True,True,True,2025-10-14 16:12:36,239.66,None,2347481.79
+MID_100411,2025-10-17 13:27:00,Control (Legacy Flow),Proprietorship,Retail / D2C,West Bengal,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,1161453.75
+MID_100412,2025-10-04 16:21:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,West Bengal,Tier-2,True,True,True,True,False,False,,,None,189351.02
+MID_100413,2025-11-12 13:44:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,84213.85
+MID_100414,2025-12-29 15:17:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-12-29 17:03:48,1.78,None,205431.12
+MID_100415,2025-10-04 12:16:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Logistics / Services,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-10-04 13:31:00,1.25,None,603744.52
+MID_100416,2025-10-01 11:07:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,104422.99
+MID_100417,2025-12-10 11:20:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-10 15:42:48,4.38,None,109806.63
+MID_100418,2025-11-19 09:47:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,220264.99
+MID_100419,2025-12-12 20:44:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Telangana,Tier-1,True,True,True,True,False,False,,,None,739120.89
+MID_100420,2025-11-30 10:12:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Gujarat,Tier-2,True,True,True,True,True,False,,,None,733176.59
+MID_100421,2025-11-04 11:47:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Gujarat,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,261664.35
+MID_100422,2025-10-08 12:46:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-08 13:35:48,0.83,None,109226.02
+MID_100423,2025-10-24 17:48:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,569557.6
+MID_100424,2025-12-22 17:18:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-22 20:00:00,2.7,None,1100793.06
+MID_100425,2025-11-05 09:53:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Logistics / Services,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-11-05 12:09:12,2.27,None,361001.33
+MID_100426,2025-11-19 11:18:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-11-19 14:06:36,2.81,None,166793.3
+MID_100427,2025-11-12 11:23:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Logistics / Services,Rajasthan,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,50088.08
+MID_100428,2025-10-27 12:00:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,True,True,False,False,,,None,82295.68
+MID_100429,2025-11-01 19:34:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-01 20:50:12,1.27,None,364468.56
+MID_100430,2025-12-17 10:17:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-17 12:24:48,2.13,None,151426.43
+MID_100431,2025-10-18 08:03:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Telangana,Tier-1,True,True,True,True,True,True,2025-10-18 13:22:12,5.32,None,32746.41
+MID_100432,2025-10-28 16:18:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,2074495.03
+MID_100433,2025-10-29 10:40:00,Control (Legacy Flow),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,123767.4
+MID_100434,2025-10-16 09:55:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,20307.89
+MID_100435,2025-11-16 08:36:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Telangana,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,4512809.46
+MID_100436,2025-11-28 15:30:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,72211.64
+MID_100437,2025-10-31 13:11:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Gujarat,Tier-2,True,True,True,True,False,False,,,None,729226.24
+MID_100438,2025-10-04 08:16:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Telangana,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,36958.47
+MID_100439,2025-11-06 09:52:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,1012438.21
+MID_100440,2025-10-17 09:25:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Maharashtra,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,232068.74
+MID_100441,2025-11-08 09:36:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Kerala,Tier-3,True,True,True,True,True,True,2025-11-08 13:18:00,3.7,None,116794.15
+MID_100442,2025-11-17 18:43:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Karnataka,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,197816.64
+MID_100443,2025-11-15 10:09:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-15 11:51:36,1.71,None,2177023.25
+MID_100444,2025-12-29 20:36:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,SaaS / B2B Tech,Gujarat,Tier-2,True,True,True,True,True,True,2025-12-29 21:17:24,0.69,None,354736.55
+MID_100445,2025-11-17 12:05:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Uttar Pradesh,Tier-2,True,True,True,False,False,False,,,UIDAI OTP Timeout,106159.3
+MID_100446,2025-11-08 09:35:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Kerala,Tier-3,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,149581.08
+MID_100447,2025-10-04 17:38:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Telangana,Tier-1,True,True,True,True,True,True,2025-10-04 19:54:48,2.28,None,55379.25
+MID_100448,2025-10-30 20:39:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Retail / D2C,Karnataka,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,1313646.37
+MID_100449,2025-10-30 20:33:00,Control (Legacy Flow),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,69332.36
+MID_100450,2025-10-22 15:58:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Telangana,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,52801.51
+MID_100451,2025-12-14 12:55:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Logistics / Services,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-14 13:52:36,0.96,None,126904.39
+MID_100452,2025-12-05 17:27:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-05 21:08:24,3.69,None,32100.02
+MID_100453,2025-10-12 12:36:00,Control (Legacy Flow),Private Limited,Retail / D2C,Rajasthan,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,41273.8
+MID_100454,2025-11-05 08:39:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,801471.6
+MID_100455,2025-10-18 19:06:00,Control (Legacy Flow),LLP,Retail / D2C,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,46929.25
+MID_100456,2025-12-29 18:13:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-29 21:25:36,3.21,None,23739.63
+MID_100457,2025-11-22 12:42:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-11-22 16:01:12,3.32,None,33404.91
+MID_100458,2025-12-10 09:10:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,122586.15
+MID_100459,2025-10-01 11:11:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-01 11:53:00,0.7,None,245486.73
+MID_100460,2025-11-27 16:04:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,78454.98
+MID_100461,2025-12-29 08:26:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,415211.08
+MID_100462,2025-12-26 19:38:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Telangana,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,334685.06
+MID_100463,2025-12-29 12:02:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,25401.2
+MID_100464,2025-10-06 12:45:00,Control (Legacy Flow),LLP,F&B / Hospitality,West Bengal,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,350602.3
+MID_100465,2025-12-09 19:55:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-09 21:13:00,1.3,None,341358.68
+MID_100466,2025-11-13 15:04:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,2209887.5
+MID_100467,2025-12-11 11:59:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Rajasthan,Tier-2,True,True,True,True,True,True,2025-12-11 14:59:36,3.01,None,20058.73
+MID_100468,2025-10-24 12:50:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,False,,,None,110415.33
+MID_100469,2025-12-25 20:40:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,West Bengal,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,165601.16
+MID_100470,2025-10-19 18:51:00,Control (Legacy Flow),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,205518.69
+MID_100471,2025-10-18 14:07:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Logistics / Services,West Bengal,Tier-2,True,True,True,True,True,True,2025-10-18 14:41:48,0.58,None,556070.07
+MID_100472,2025-10-30 16:14:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Logistics / Services,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,1149877.37
+MID_100473,2025-11-11 18:09:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Rajasthan,Tier-2,True,True,True,True,True,False,,,None,141835.64
+MID_100474,2025-11-02 12:52:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,136418.41
+MID_100475,2025-12-13 09:03:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Kerala,Tier-3,True,True,True,False,False,False,,,UIDAI OTP Timeout,15237.0
+MID_100476,2025-10-12 20:19:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-13 00:41:12,4.37,None,43243.65
+MID_100477,2025-10-27 17:47:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-10-27 22:06:48,4.33,None,38299.77
+MID_100478,2025-11-08 17:58:00,Control (Legacy Flow),Private Limited,Retail / D2C,West Bengal,Tier-2,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,155464.25
+MID_100479,2025-10-09 15:07:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,64492.81
+MID_100480,2025-10-21 19:19:00,Control (Legacy Flow),Partnership,Retail / D2C,Tamil Nadu,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,777127.66
+MID_100481,2025-12-15 14:17:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Telangana,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,3674841.47
+MID_100482,2025-10-29 15:05:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,457461.71
+MID_100483,2025-11-02 08:56:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-11-02 11:53:36,2.96,None,396434.18
+MID_100484,2025-12-01 14:47:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-12-01 15:57:48,1.18,None,440235.51
+MID_100485,2025-10-15 13:38:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Rajasthan,Tier-2,True,True,True,True,True,True,2025-10-15 17:28:24,3.84,None,82333.46
+MID_100486,2025-10-02 12:01:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,5042.91
+MID_100487,2025-11-21 11:43:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,158816.61
+MID_100488,2025-11-13 17:01:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,West Bengal,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,291775.4
+MID_100489,2025-11-23 12:36:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Rajasthan,Tier-2,True,True,True,False,False,False,,,UIDAI OTP Timeout,117831.13
+MID_100490,2025-10-18 20:48:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,79967.6
+MID_100491,2025-10-03 15:33:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,1924526.16
+MID_100492,2025-10-07 12:11:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Karnataka,Tier-1,True,True,True,True,True,True,2025-10-07 13:09:48,0.98,None,96428.53
+MID_100493,2025-11-12 17:27:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,76276.27
+MID_100494,2025-12-21 18:52:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-21 22:40:36,3.81,None,475721.91
+MID_100495,2025-11-07 15:05:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,240105.12
+MID_100496,2025-11-06 13:26:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-11-06 21:07:24,7.69,None,117509.87
+MID_100497,2025-11-27 13:20:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,205123.89
+MID_100498,2025-11-02 18:06:00,Control (Legacy Flow),Proprietorship,Logistics / Services,West Bengal,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,193968.78
+MID_100499,2025-11-28 13:26:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,SaaS / B2B Tech,Kerala,Tier-3,True,True,True,True,True,False,,,None,631443.29
+MID_100500,2025-10-11 19:31:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Telangana,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,50291.09
+MID_100501,2025-12-07 18:25:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,105396.5
+MID_100502,2025-12-21 20:35:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,False,,,None,156863.95
+MID_100503,2025-12-07 08:29:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Gujarat,Tier-2,True,True,True,True,True,False,,,None,71478.06
+MID_100504,2025-12-27 09:20:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Telangana,Tier-1,True,True,True,True,True,False,,,None,73719.92
+MID_100505,2025-10-22 12:20:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-22 12:57:12,0.62,None,596357.34
+MID_100506,2025-12-05 09:49:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Uttar Pradesh,Tier-2,True,True,True,True,True,True,2025-12-05 10:43:00,0.9,None,61673.29
+MID_100507,2025-11-13 14:55:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Gujarat,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,1571531.71
+MID_100508,2025-10-06 08:42:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Uttar Pradesh,Tier-2,True,True,True,True,False,False,,,None,777628.54
+MID_100509,2025-11-11 16:29:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Telangana,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,185792.48
+MID_100510,2025-10-25 08:12:00,Control (Legacy Flow),Partnership,Retail / D2C,Tamil Nadu,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,178272.62
+MID_100511,2025-11-26 13:39:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Delhi NCR,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,343587.07
+MID_100512,2025-12-24 18:28:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,SaaS / B2B Tech,Uttar Pradesh,Tier-2,True,True,True,True,True,False,,,None,34639.02
+MID_100513,2025-11-24 20:03:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Rajasthan,Tier-2,True,False,False,False,False,False,,,PAN Not Found in NSDL,782477.61
+MID_100514,2025-10-16 12:35:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-16 13:16:24,0.69,None,462242.97
+MID_100515,2025-10-14 10:59:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,49641.9
+MID_100516,2025-11-08 12:28:00,Control (Legacy Flow),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,True,True,False,False,,,None,52947.93
+MID_100517,2025-10-28 19:31:00,Control (Legacy Flow),Partnership,SaaS / B2B Tech,Gujarat,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,223154.05
+MID_100518,2025-11-20 08:40:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Kerala,Tier-3,True,True,False,False,False,False,,,Beneficiary Name Mismatch,33348.48
+MID_100519,2025-11-18 20:15:00,Control (Legacy Flow),LLP,F&B / Hospitality,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,95980.13
+MID_100520,2025-10-09 10:19:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,168606.49
+MID_100521,2025-11-27 16:00:00,Control (Legacy Flow),LLP,Retail / D2C,Karnataka,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,40543.99
+MID_100522,2025-11-14 14:05:00,Control (Legacy Flow),Proprietorship,Retail / D2C,West Bengal,Tier-2,True,True,True,True,True,False,,,None,606658.6
+MID_100523,2025-10-22 11:53:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Gujarat,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,374280.58
+MID_100524,2025-11-01 15:07:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Gujarat,Tier-2,True,True,True,False,False,False,,,UIDAI OTP Timeout,212926.63
+MID_100525,2025-12-08 15:59:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,86056.18
+MID_100526,2025-12-26 12:32:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-26 13:34:24,1.04,None,69316.22
+MID_100527,2025-12-08 19:17:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-08 20:39:48,1.38,None,288308.54
+MID_100528,2025-11-11 14:53:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-11 16:06:12,1.22,None,643762.72
+MID_100529,2025-11-22 15:30:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Rajasthan,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,641637.12
+MID_100530,2025-11-28 15:35:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Gujarat,Tier-2,True,False,False,False,False,False,,,PAN Not Found in NSDL,1511751.46
+MID_100531,2025-12-13 14:12:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Kerala,Tier-3,True,True,False,False,False,False,,,Beneficiary Name Mismatch,725618.36
+MID_100532,2025-11-08 16:47:00,Control (Legacy Flow),Private Limited,Retail / D2C,Kerala,Tier-3,True,True,True,False,False,False,,,UIDAI OTP Timeout,855265.29
+MID_100533,2025-10-15 09:17:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,1922735.17
+MID_100534,2025-12-10 13:59:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Telangana,Tier-1,True,True,True,True,True,False,,,None,143476.58
+MID_100535,2025-10-29 20:32:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Uttar Pradesh,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,39221.21
+MID_100536,2025-10-03 08:18:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Gujarat,Tier-2,True,True,True,True,True,True,2025-10-05 18:25:48,58.13,None,218999.0
+MID_100537,2025-12-22 19:19:00,Control (Legacy Flow),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,11465.66
+MID_100538,2025-10-10 17:42:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-10-10 19:40:12,1.97,None,307976.53
+MID_100539,2025-10-29 15:55:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,44385.05
+MID_100540,2025-12-18 15:34:00,Control (Legacy Flow),Private Limited,F&B / Hospitality,West Bengal,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,50480.59
+MID_100541,2025-11-04 13:21:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-11-04 18:46:48,5.43,None,375911.45
+MID_100542,2025-10-06 16:48:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Karnataka,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,117906.52
+MID_100543,2025-10-12 15:59:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,985106.0
+MID_100544,2025-11-07 11:44:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,188099.21
+MID_100545,2025-12-16 11:36:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,145453.35
+MID_100546,2025-10-19 11:54:00,Control (Legacy Flow),Partnership,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,148443.87
+MID_100547,2025-12-06 20:26:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,206119.67
+MID_100548,2025-10-08 13:47:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,94001.32
+MID_100549,2025-10-08 19:58:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Telangana,Tier-1,True,True,True,True,True,False,,,None,185804.1
+MID_100550,2025-12-23 20:24:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-23 23:04:48,2.68,None,423110.6
+MID_100551,2025-11-16 14:42:00,Control (Legacy Flow),Private Limited,Retail / D2C,Gujarat,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,278402.51
+MID_100552,2025-10-04 10:31:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-10-04 14:10:00,3.65,None,304790.84
+MID_100553,2025-11-20 08:08:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Logistics / Services,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,107379.73
+MID_100554,2025-12-24 17:21:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Rajasthan,Tier-2,True,False,False,False,False,False,,,PAN Not Found in NSDL,55674.03
+MID_100555,2025-12-06 15:06:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,305321.47
+MID_100556,2025-11-14 16:58:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Maharashtra,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,199937.35
+MID_100557,2025-10-08 08:46:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,7460.96
+MID_100558,2025-12-26 14:55:00,Control (Legacy Flow),Partnership,Retail / D2C,Telangana,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,382631.55
+MID_100559,2025-10-16 10:04:00,Control (Legacy Flow),Partnership,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,44607.26
+MID_100560,2025-12-16 20:16:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Telangana,Tier-1,True,True,True,True,True,False,,,None,149997.31
+MID_100561,2025-12-06 13:39:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-06 17:20:24,3.69,None,1069566.35
+MID_100562,2025-10-09 19:25:00,Control (Legacy Flow),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,51577.55
+MID_100563,2025-11-29 09:54:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,506925.78
+MID_100564,2025-12-17 18:54:00,Control (Legacy Flow),Partnership,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,False,False,,,None,136687.03
+MID_100565,2025-12-16 16:24:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,40177.33
+MID_100566,2025-12-10 13:40:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,False,,,None,153457.2
+MID_100567,2025-10-15 19:56:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,315335.28
+MID_100568,2025-12-10 16:02:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Rajasthan,Tier-2,True,True,True,True,True,False,,,None,21991.18
+MID_100569,2025-11-10 17:04:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Karnataka,Tier-1,True,True,True,True,True,False,,,None,209192.88
+MID_100570,2025-10-22 11:40:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,33231.27
+MID_100571,2025-10-24 12:14:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Gujarat,Tier-2,True,True,True,True,True,False,,,None,51399.06
+MID_100572,2025-11-13 19:05:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,954148.69
+MID_100573,2025-10-01 09:48:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,False,False,,,None,463460.5
+MID_100574,2025-10-10 18:45:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Rajasthan,Tier-2,True,True,True,True,True,False,,,None,679046.29
+MID_100575,2025-12-19 09:28:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Uttar Pradesh,Tier-2,True,True,True,True,False,False,,,None,552599.11
+MID_100576,2025-12-11 10:44:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,92025.64
+MID_100577,2025-11-25 08:02:00,Control (Legacy Flow),Private Limited,F&B / Hospitality,Uttar Pradesh,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,665446.17
+MID_100578,2025-12-28 20:03:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,215645.01
+MID_100579,2025-11-19 12:22:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,214425.29
+MID_100580,2025-10-12 14:09:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,351046.97
+MID_100581,2025-12-28 16:26:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Kerala,Tier-3,True,True,True,True,True,True,2025-12-28 23:27:12,7.02,None,108631.63
+MID_100582,2025-12-20 17:43:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Delhi NCR,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,323745.41
+MID_100583,2025-11-29 10:11:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-29 11:04:24,0.89,None,48502.66
+MID_100584,2025-10-26 09:39:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,505896.77
+MID_100585,2025-12-17 14:39:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Karnataka,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,191779.11
+MID_100586,2025-11-10 11:31:00,Control (Legacy Flow),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,57942.9
+MID_100587,2025-11-05 17:09:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,238211.7
+MID_100588,2025-10-23 11:29:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,87141.08
+MID_100589,2025-11-12 12:29:00,Control (Legacy Flow),Private Limited,F&B / Hospitality,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,302629.99
+MID_100590,2025-10-06 18:00:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-06 19:27:00,1.45,None,146126.3
+MID_100591,2025-12-08 20:29:00,Control (Legacy Flow),LLP,Healthcare / Education,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,169292.48
+MID_100592,2025-11-12 18:34:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,164438.38
+MID_100593,2025-10-25 10:04:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,False,,,None,242087.66
+MID_100594,2025-10-18 15:22:00,Control (Legacy Flow),Private Limited,Retail / D2C,Rajasthan,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,1166173.23
+MID_100595,2025-12-01 12:40:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,256866.38
+MID_100596,2025-10-13 14:44:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,48288.31
+MID_100597,2025-11-12 15:54:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,212839.33
+MID_100598,2025-12-17 12:12:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,79326.59
+MID_100599,2025-10-28 14:54:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-28 16:50:24,1.94,None,615618.01
+MID_100600,2025-10-18 15:06:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,62821.13
+MID_100601,2025-11-28 14:36:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-28 17:11:24,2.59,None,273597.54
+MID_100602,2025-11-29 13:36:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,142599.96
+MID_100603,2025-12-02 19:18:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,76856.88
+MID_100604,2025-11-26 18:25:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,24780.92
+MID_100605,2025-11-20 08:36:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,41594.33
+MID_100606,2025-11-25 20:47:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-26 00:05:00,3.3,None,226575.34
+MID_100607,2025-10-27 08:58:00,Control (Legacy Flow),Partnership,Retail / D2C,Karnataka,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,109484.63
+MID_100608,2025-11-01 19:31:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,135171.54
+MID_100609,2025-10-09 12:49:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Telangana,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,45619.48
+MID_100610,2025-12-23 17:51:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,688877.23
+MID_100611,2025-12-07 13:14:00,Control (Legacy Flow),Private Limited,Retail / D2C,Gujarat,Tier-2,True,True,True,True,False,False,,,None,1964374.51
+MID_100612,2025-11-15 18:12:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,166943.1
+MID_100613,2025-12-06 12:43:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-06 18:05:48,5.38,None,252842.55
+MID_100614,2025-10-26 20:46:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Rajasthan,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,401253.71
+MID_100615,2025-10-08 18:53:00,Control (Legacy Flow),Private Limited,Retail / D2C,Uttar Pradesh,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,61259.47
+MID_100616,2025-10-06 18:06:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,29877.41
+MID_100617,2025-12-19 18:02:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,False,,,None,470109.84
+MID_100618,2025-10-24 12:50:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Gujarat,Tier-2,True,True,True,True,True,False,,,None,357928.55
+MID_100619,2025-11-17 15:02:00,Control (Legacy Flow),Private Limited,Retail / D2C,Telangana,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,196439.82
+MID_100620,2025-11-14 19:08:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-14 22:24:48,3.28,None,49027.97
+MID_100621,2025-10-13 09:58:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,25976.12
+MID_100622,2025-12-08 13:47:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,91569.8
+MID_100623,2025-10-25 10:12:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Logistics / Services,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-10-25 13:09:00,2.95,None,27751.19
+MID_100624,2025-10-20 10:50:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,False,False,,,None,1385179.44
+MID_100625,2025-12-21 16:56:00,Control (Legacy Flow),Private Limited,Logistics / Services,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,244679.64
+MID_100626,2025-12-21 16:32:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,119118.86
+MID_100627,2025-12-05 10:16:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Telangana,Tier-1,True,True,True,True,True,True,2025-12-05 12:38:48,2.38,None,34166.07
+MID_100628,2025-12-13 15:51:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,143351.41
+MID_100629,2025-11-14 19:55:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-15 01:02:12,5.12,None,719469.63
+MID_100630,2025-11-16 13:51:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Telangana,Tier-1,True,True,True,True,False,False,,,None,239165.68
+MID_100631,2025-12-02 09:29:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Rajasthan,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,59408.62
+MID_100632,2025-12-15 10:48:00,Control (Legacy Flow),Private Limited,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,123922.63
+MID_100633,2025-12-16 11:55:00,Control (Legacy Flow),Private Limited,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-18 00:02:12,36.12,None,513441.16
+MID_100634,2025-11-24 18:46:00,Control (Legacy Flow),LLP,F&B / Hospitality,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,419580.75
+MID_100635,2025-12-14 14:54:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,23837.87
+MID_100636,2025-10-19 13:05:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-10-19 14:12:48,1.13,None,31793.24
+MID_100637,2025-11-04 20:25:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Karnataka,Tier-1,True,True,True,True,True,False,,,None,18680.56
+MID_100638,2025-11-22 08:16:00,Control (Legacy Flow),LLP,Logistics / Services,Karnataka,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,4072419.53
+MID_100639,2025-10-26 15:23:00,Control (Legacy Flow),LLP,F&B / Hospitality,Karnataka,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,71488.43
+MID_100640,2025-10-14 19:43:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,153608.73
+MID_100641,2025-11-14 12:37:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,False,,,None,214635.98
+MID_100642,2025-11-13 14:52:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,689357.36
+MID_100643,2025-12-27 18:23:00,Control (Legacy Flow),Private Limited,F&B / Hospitality,Karnataka,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,465407.9
+MID_100644,2025-12-04 18:14:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-04 19:01:24,0.79,None,275080.08
+MID_100645,2025-11-20 15:01:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Rajasthan,Tier-2,True,True,True,True,True,True,2025-11-24 02:26:12,83.42,None,151615.46
+MID_100646,2025-11-12 17:56:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,150969.86
+MID_100647,2025-12-25 17:14:00,Control (Legacy Flow),Partnership,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,86379.45
+MID_100648,2025-10-23 18:52:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Gujarat,Tier-2,True,True,True,True,True,True,2025-10-23 19:45:24,0.89,None,37322.68
+MID_100649,2025-11-25 15:58:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,775120.9
+MID_100650,2025-10-19 19:19:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,423453.73
+MID_100651,2025-12-21 09:08:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,64252.15
+MID_100652,2025-12-15 08:19:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-12-15 15:40:36,7.36,None,129024.48
+MID_100653,2025-11-24 15:07:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Telangana,Tier-1,True,True,True,True,False,False,,,None,140275.42
+MID_100654,2025-11-29 09:15:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,864049.02
+MID_100655,2025-11-28 16:08:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,347912.68
+MID_100656,2025-11-02 14:29:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,266852.94
+MID_100657,2025-10-19 18:47:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Karnataka,Tier-1,True,True,True,True,False,False,,,None,62283.18
+MID_100658,2025-10-28 19:34:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,47309.02
+MID_100659,2025-11-21 14:37:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Tamil Nadu,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,33864.93
+MID_100660,2025-11-18 19:09:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-18 22:27:00,3.3,None,197451.95
+MID_100661,2025-11-06 14:41:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Kerala,Tier-3,True,True,True,True,True,True,2025-11-06 19:14:36,4.56,None,99126.49
+MID_100662,2025-10-26 09:53:00,Control (Legacy Flow),Partnership,Retail / D2C,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,73719.29
+MID_100663,2025-11-09 17:26:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,64202.64
+MID_100664,2025-12-19 08:44:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,25088.43
+MID_100665,2025-11-07 13:13:00,Control (Legacy Flow),Partnership,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,893333.1
+MID_100666,2025-12-16 15:15:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-16 15:53:24,0.64,None,370020.36
+MID_100667,2025-12-26 13:06:00,Control (Legacy Flow),LLP,F&B / Hospitality,Maharashtra,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,150243.63
+MID_100668,2025-11-23 13:34:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,77164.36
+MID_100669,2025-10-22 13:03:00,Control (Legacy Flow),Partnership,Retail / D2C,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,441646.84
+MID_100670,2025-10-16 12:12:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,682199.92
+MID_100671,2025-10-28 09:54:00,Control (Legacy Flow),Partnership,SaaS / B2B Tech,Rajasthan,Tier-2,True,True,True,True,True,False,,,None,361532.71
+MID_100672,2025-11-04 15:05:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,365312.47
+MID_100673,2025-11-29 18:13:00,Control (Legacy Flow),Partnership,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,84020.92
+MID_100674,2025-11-14 18:40:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,405525.33
+MID_100675,2025-11-15 17:01:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Kerala,Tier-3,True,False,False,False,False,False,,,PAN Not Found in NSDL,174492.01
+MID_100676,2025-12-11 20:21:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,294643.71
+MID_100677,2025-11-24 10:50:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,233439.58
+MID_100678,2025-12-25 11:04:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,West Bengal,Tier-2,True,True,True,True,True,True,2025-12-25 12:13:00,1.15,None,44547.85
+MID_100679,2025-12-24 20:35:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Rajasthan,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,202048.01
+MID_100680,2025-10-26 17:13:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Gujarat,Tier-2,True,True,True,True,True,False,,,None,79913.16
+MID_100681,2025-12-24 11:21:00,Control (Legacy Flow),LLP,Healthcare / Education,Karnataka,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,841713.25
+MID_100682,2025-10-25 20:57:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,32573.44
+MID_100683,2025-12-04 08:17:00,Control (Legacy Flow),Partnership,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,110931.85
+MID_100684,2025-10-06 10:34:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Uttar Pradesh,Tier-2,True,True,True,True,True,True,2025-10-06 14:26:12,3.87,None,493068.38
+MID_100685,2025-10-23 12:51:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Delhi NCR,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,86245.82
+MID_100686,2025-12-03 09:42:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Retail / D2C,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,155290.13
+MID_100687,2025-12-26 10:00:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,141964.59
+MID_100688,2025-11-12 20:50:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Telangana,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,1343704.05
+MID_100689,2025-10-23 17:20:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,1651651.53
+MID_100690,2025-10-30 10:16:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-10-30 15:58:36,5.71,None,19742.38
+MID_100691,2025-12-16 08:08:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-16 12:26:00,4.3,None,26015.58
+MID_100692,2025-10-18 19:26:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,237829.98
+MID_100693,2025-12-26 16:07:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,78882.5
+MID_100694,2025-12-18 09:30:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,67428.58
+MID_100695,2025-10-21 20:23:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,3949159.51
+MID_100696,2025-11-26 17:06:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-27 04:24:00,11.3,None,1024386.79
+MID_100697,2025-10-23 15:32:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,False,False,,,None,697518.99
+MID_100698,2025-12-30 11:39:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Healthcare / Education,Maharashtra,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,106471.89
+MID_100699,2025-11-14 19:50:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,114664.23
+MID_100700,2025-11-13 16:19:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,28825.64
+MID_100701,2025-12-21 15:41:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-21 16:30:12,0.82,None,186838.86
+MID_100702,2025-12-27 08:03:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,1290618.21
+MID_100703,2025-11-16 14:27:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,401419.51
+MID_100704,2025-11-09 18:06:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,582171.14
+MID_100705,2025-11-20 15:45:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Kerala,Tier-3,True,True,False,False,False,False,,,IFSC Branch Inactive,145775.95
+MID_100706,2025-11-11 09:57:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,63168.7
+MID_100707,2025-10-07 13:38:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Gujarat,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,845841.38
+MID_100708,2025-11-19 09:08:00,Control (Legacy Flow),Private Limited,Retail / D2C,Karnataka,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,235903.0
+MID_100709,2025-11-17 17:40:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Telangana,Tier-1,True,True,True,True,True,True,2025-11-17 20:20:48,2.68,None,198032.15
+MID_100710,2025-12-23 17:35:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Telangana,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,96195.67
+MID_100711,2025-12-30 13:24:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-12-30 15:21:36,1.96,None,979315.33
+MID_100712,2025-10-06 17:33:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Delhi NCR,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,726859.27
+MID_100713,2025-12-30 15:32:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-30 17:16:24,1.74,None,461242.07
+MID_100714,2025-10-09 17:27:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-10-10 07:48:36,14.36,None,103095.71
+MID_100715,2025-11-26 09:50:00,Control (Legacy Flow),LLP,Retail / D2C,Uttar Pradesh,Tier-2,True,True,True,True,False,False,,,None,61074.1
+MID_100716,2025-10-31 19:07:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Gujarat,Tier-2,True,True,True,True,True,False,,,None,158407.79
+MID_100717,2025-10-21 18:41:00,Control (Legacy Flow),Private Limited,Logistics / Services,West Bengal,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,829147.42
+MID_100718,2025-12-29 19:55:00,Control (Legacy Flow),LLP,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,85605.21
+MID_100719,2025-11-09 11:27:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Telangana,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,76775.14
+MID_100720,2025-11-14 11:26:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Uttar Pradesh,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,374579.1
+MID_100721,2025-12-16 15:25:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-16 20:26:48,5.03,None,233571.38
+MID_100722,2025-11-18 14:46:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,50456.19
+MID_100723,2025-12-26 13:27:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Telangana,Tier-1,True,True,True,True,True,True,2025-12-29 18:23:24,76.94,None,360265.94
+MID_100724,2025-10-20 13:42:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,397610.97
+MID_100725,2025-10-17 13:09:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Gujarat,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,357094.65
+MID_100726,2025-10-28 15:04:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,70073.04
+MID_100727,2025-11-10 09:05:00,Control (Legacy Flow),LLP,Retail / D2C,Gujarat,Tier-2,True,True,True,True,True,True,2025-11-13 08:08:36,71.06,None,128389.26
+MID_100728,2025-12-05 14:06:00,Control (Legacy Flow),Partnership,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,475419.08
+MID_100729,2025-10-25 19:47:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-25 21:33:12,1.77,None,190173.6
+MID_100730,2025-11-27 13:51:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,341705.87
+MID_100731,2025-11-10 10:35:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Gujarat,Tier-2,True,True,True,False,False,False,,,UIDAI OTP Timeout,258082.5
+MID_100732,2025-10-06 17:35:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,1114027.38
+MID_100733,2025-12-14 13:42:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-15 10:32:24,20.84,None,150930.66
+MID_100734,2025-11-07 09:26:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Karnataka,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,936125.88
+MID_100735,2025-10-06 18:48:00,Control (Legacy Flow),Partnership,Healthcare / Education,Rajasthan,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,480474.3
+MID_100736,2025-11-14 19:03:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-14 21:53:24,2.84,None,16113.25
+MID_100737,2025-12-14 12:38:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Gujarat,Tier-2,True,True,True,True,True,True,2025-12-14 14:06:48,1.48,None,2753849.19
+MID_100738,2025-10-14 12:22:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-10-14 15:54:24,3.54,None,118902.53
+MID_100739,2025-12-05 09:36:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,17864.7
+MID_100740,2025-11-09 11:09:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,68476.9
+MID_100741,2025-10-03 15:14:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,False,,,None,314014.97
+MID_100742,2025-10-24 09:22:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Telangana,Tier-1,True,True,True,True,True,True,2025-10-24 14:20:12,4.97,None,121437.71
+MID_100743,2025-10-19 16:23:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,628056.6
+MID_100744,2025-10-18 09:48:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,54027.62
+MID_100745,2025-12-03 17:14:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Rajasthan,Tier-2,True,True,True,True,True,False,,,None,89298.73
+MID_100746,2025-12-27 20:27:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-28 02:04:48,5.63,None,6337.58
+MID_100747,2025-11-04 16:49:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,145303.98
+MID_100748,2025-12-01 17:59:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Rajasthan,Tier-2,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,175474.68
+MID_100749,2025-10-01 08:11:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,True,True,False,False,,,None,74346.25
+MID_100750,2025-10-25 12:44:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,832733.11
+MID_100751,2025-11-14 20:19:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Uttar Pradesh,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,426757.71
+MID_100752,2025-11-18 13:00:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,356968.76
+MID_100753,2025-12-28 10:36:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,False,,,None,62453.14
+MID_100754,2025-10-16 18:25:00,Control (Legacy Flow),LLP,Logistics / Services,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,222568.62
+MID_100755,2025-10-19 09:09:00,Control (Legacy Flow),Partnership,Retail / D2C,Gujarat,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,289785.13
+MID_100756,2025-10-23 18:01:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-10-26 02:38:48,56.63,None,150213.52
+MID_100757,2025-12-22 09:47:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,157679.06
+MID_100758,2025-10-25 11:24:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Rajasthan,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,100096.35
+MID_100759,2025-10-16 15:21:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Gujarat,Tier-2,True,True,True,True,True,False,,,None,377313.76
+MID_100760,2025-11-23 10:23:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,210456.29
+MID_100761,2025-12-12 19:20:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,False,,,None,316370.39
+MID_100762,2025-10-01 20:36:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,634820.2
+MID_100763,2025-11-11 09:56:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Telangana,Tier-1,True,True,True,True,True,True,2025-11-13 12:23:00,50.45,None,135595.5
+MID_100764,2025-10-19 08:09:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,66134.58
+MID_100765,2025-11-03 20:39:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,235743.95
+MID_100766,2025-12-19 18:05:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Telangana,Tier-1,True,True,True,True,False,False,,,None,125114.84
+MID_100767,2025-11-24 12:28:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Rajasthan,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,61776.2
+MID_100768,2025-10-18 14:31:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,False,False,,,None,453218.74
+MID_100769,2025-11-03 17:28:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Gujarat,Tier-2,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,716972.51
+MID_100770,2025-12-28 12:13:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,141620.76
+MID_100771,2025-11-14 20:32:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Gujarat,Tier-2,True,True,True,False,False,False,,,UIDAI OTP Timeout,254877.44
+MID_100772,2025-10-06 13:27:00,Control (Legacy Flow),Partnership,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,286109.83
+MID_100773,2025-10-21 09:18:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-10-21 10:44:24,1.44,None,147604.08
+MID_100774,2025-12-09 18:43:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Gujarat,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,35447.98
+MID_100775,2025-11-17 15:33:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,125185.56
+MID_100776,2025-11-08 08:14:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-08 09:09:48,0.93,None,73135.19
+MID_100777,2025-10-31 14:38:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Telangana,Tier-1,True,True,True,True,True,False,,,None,111276.4
+MID_100778,2025-10-10 08:00:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Telangana,Tier-1,True,True,True,True,True,True,2025-10-10 11:09:36,3.16,None,130662.21
+MID_100779,2025-10-30 11:19:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,79605.47
+MID_100780,2025-10-18 11:49:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Telangana,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,2581097.79
+MID_100781,2025-11-29 20:16:00,Control (Legacy Flow),Partnership,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-02 05:19:00,57.05,None,125515.14
+MID_100782,2025-12-27 12:20:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Karnataka,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,216843.49
+MID_100783,2025-12-12 08:31:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Karnataka,Tier-1,True,True,True,True,True,False,,,None,152828.86
+MID_100784,2025-10-15 19:27:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,578782.06
+MID_100785,2025-10-04 10:24:00,Control (Legacy Flow),Partnership,Retail / D2C,Rajasthan,Tier-2,True,True,True,True,True,False,,,None,273223.19
+MID_100786,2025-12-02 16:45:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Logistics / Services,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,262731.01
+MID_100787,2025-11-09 16:35:00,Control (Legacy Flow),Private Limited,Retail / D2C,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,169835.76
+MID_100788,2025-10-09 20:22:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Delhi NCR,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,547880.56
+MID_100789,2025-10-09 14:55:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Uttar Pradesh,Tier-2,True,True,True,True,True,True,2025-10-09 17:07:36,2.21,None,165261.69
+MID_100790,2025-10-26 19:02:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,21561.1
+MID_100791,2025-10-04 08:29:00,Control (Legacy Flow),Private Limited,Logistics / Services,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,1133527.13
+MID_100792,2025-12-20 13:36:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,48570.99
+MID_100793,2025-10-16 17:25:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,162526.21
+MID_100794,2025-10-15 19:40:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,145646.86
+MID_100795,2025-11-21 12:07:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Rajasthan,Tier-2,True,True,True,True,True,True,2025-11-21 13:05:12,0.97,None,168718.6
+MID_100796,2025-12-08 14:01:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Uttar Pradesh,Tier-2,True,True,True,True,True,False,,,None,119559.33
+MID_100797,2025-10-05 13:10:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,497589.74
+MID_100798,2025-10-20 20:39:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Telangana,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,42386.99
+MID_100799,2025-12-18 19:58:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Uttar Pradesh,Tier-2,True,True,True,True,True,False,,,None,9888.94
+MID_100800,2025-10-18 13:05:00,Control (Legacy Flow),LLP,Healthcare / Education,Telangana,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,263320.72
+MID_100801,2025-10-02 09:15:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Logistics / Services,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,444589.33
+MID_100802,2025-10-13 14:37:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-10-13 20:53:12,6.27,None,309454.85
+MID_100803,2025-10-04 14:33:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,507961.03
+MID_100804,2025-11-11 14:55:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,994182.8
+MID_100805,2025-12-13 19:21:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Logistics / Services,Telangana,Tier-1,True,True,True,True,True,False,,,None,626228.47
+MID_100806,2025-11-30 11:21:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Uttar Pradesh,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,134292.51
+MID_100807,2025-10-08 09:32:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Uttar Pradesh,Tier-2,True,True,True,True,True,True,2025-10-10 05:25:24,43.89,None,18563.08
+MID_100808,2025-12-06 18:07:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,180970.73
+MID_100809,2025-12-02 16:12:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,106532.27
+MID_100810,2025-10-09 13:46:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Kerala,Tier-3,True,True,True,True,True,False,,,None,38138.82
+MID_100811,2025-10-11 18:52:00,Control (Legacy Flow),Private Limited,F&B / Hospitality,Gujarat,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,80636.23
+MID_100812,2025-11-11 11:06:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,194436.2
+MID_100813,2025-10-13 12:12:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Uttar Pradesh,Tier-2,True,True,True,True,True,True,2025-10-13 13:27:36,1.26,None,130013.94
+MID_100814,2025-11-05 10:38:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Rajasthan,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,156364.66
+MID_100815,2025-10-13 20:48:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Healthcare / Education,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-10-13 22:07:12,1.32,None,695546.86
+MID_100816,2025-10-12 18:04:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,54264.04
+MID_100817,2025-11-06 20:40:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-06 21:28:00,0.8,None,90291.31
+MID_100818,2025-12-13 15:29:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,2663372.54
+MID_100819,2025-12-12 20:37:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,False,,,None,199205.3
+MID_100820,2025-11-21 15:43:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Gujarat,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,12695.44
+MID_100821,2025-12-10 18:40:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,144919.12
+MID_100822,2025-10-02 13:55:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Karnataka,Tier-1,True,True,True,True,True,True,2025-10-02 17:10:00,3.25,None,64233.82
+MID_100823,2025-11-25 18:20:00,Control (Legacy Flow),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,206321.08
+MID_100824,2025-11-29 15:04:00,Control (Legacy Flow),Private Limited,Retail / D2C,Delhi NCR,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,98636.27
+MID_100825,2025-10-23 15:40:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Uttar Pradesh,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,16234.3
+MID_100826,2025-11-09 20:17:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,66314.58
+MID_100827,2025-12-03 08:22:00,Control (Legacy Flow),LLP,Retail / D2C,Karnataka,Tier-1,True,True,True,True,False,False,,,None,268762.01
+MID_100828,2025-12-24 16:04:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Telangana,Tier-1,True,True,True,True,True,False,,,None,36657.81
+MID_100829,2025-10-23 12:29:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,596609.19
+MID_100830,2025-10-29 08:03:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-10-30 13:13:48,29.18,None,128689.41
+MID_100831,2025-12-17 13:53:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Delhi NCR,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,123122.15
+MID_100832,2025-12-29 09:41:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-29 16:30:12,6.82,None,188579.22
+MID_100833,2025-11-20 09:39:00,Control (Legacy Flow),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,159909.07
+MID_100834,2025-12-08 16:24:00,Control (Legacy Flow),Partnership,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,326476.25
+MID_100835,2025-12-28 15:37:00,Control (Legacy Flow),Private Limited,Logistics / Services,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,299437.56
+MID_100836,2025-10-31 20:47:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Uttar Pradesh,Tier-2,True,True,True,True,True,False,,,None,118232.92
+MID_100837,2025-11-19 08:28:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,130685.56
+MID_100838,2025-10-20 18:12:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Healthcare / Education,Tamil Nadu,Tier-1,True,True,True,True,False,False,,,None,266014.1
+MID_100839,2025-11-24 13:38:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,97590.58
+MID_100840,2025-12-20 16:09:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-20 18:03:00,1.9,None,37476.33
+MID_100841,2025-10-02 08:28:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,101832.31
+MID_100842,2025-10-25 20:57:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,73550.15
+MID_100843,2025-10-13 19:05:00,Control (Legacy Flow),Private Limited,Logistics / Services,West Bengal,Tier-2,True,False,False,False,False,False,,,OCR Low Quality / Blur,163577.02
+MID_100844,2025-12-09 18:11:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-11 21:17:36,51.11,None,593252.5
+MID_100845,2025-12-06 08:15:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-06 08:49:12,0.57,None,181590.63
+MID_100846,2025-11-27 19:28:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,975974.54
+MID_100847,2025-12-21 15:33:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Kerala,Tier-3,True,True,True,True,True,True,2025-12-21 19:15:00,3.7,None,359257.24
+MID_100848,2025-12-14 16:39:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-14 18:31:12,1.87,None,85128.78
+MID_100849,2025-12-23 10:23:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,236758.4
+MID_100850,2025-12-03 12:24:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,788125.67
+MID_100851,2025-12-08 20:21:00,Control (Legacy Flow),Partnership,Retail / D2C,Telangana,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,71429.54
+MID_100852,2025-12-22 17:03:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-22 21:54:36,4.86,None,169189.67
+MID_100853,2025-12-25 20:40:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Logistics / Services,Rajasthan,Tier-2,True,True,True,True,True,False,,,None,226850.23
+MID_100854,2025-11-28 18:21:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-28 22:41:24,4.34,None,301428.46
+MID_100855,2025-11-29 09:21:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,41277.15
+MID_100856,2025-12-22 16:43:00,Control (Legacy Flow),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,32074.6
+MID_100857,2025-12-01 12:16:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-01 13:32:12,1.27,None,191733.93
+MID_100858,2025-10-16 19:54:00,Control (Legacy Flow),Partnership,Retail / D2C,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,836929.42
+MID_100859,2025-12-27 17:55:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-27 20:47:12,2.87,None,579937.44
+MID_100860,2025-12-07 10:21:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Telangana,Tier-1,True,True,True,True,True,True,2025-12-07 12:22:48,2.03,None,857248.94
+MID_100861,2025-10-15 09:37:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,606256.29
+MID_100862,2025-12-28 18:09:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-12-30 11:28:12,41.32,None,441591.24
+MID_100863,2025-11-24 13:19:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,278645.87
+MID_100864,2025-11-04 19:42:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,148620.67
+MID_100865,2025-11-24 14:08:00,Control (Legacy Flow),LLP,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,412909.42
+MID_100866,2025-10-14 19:05:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,878022.42
+MID_100867,2025-11-18 16:24:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-18 17:10:12,0.77,None,1197883.26
+MID_100868,2025-12-22 18:50:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Rajasthan,Tier-2,True,True,True,True,True,True,2025-12-22 19:26:36,0.61,None,51593.88
+MID_100869,2025-10-07 13:52:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Uttar Pradesh,Tier-2,True,True,True,True,True,False,,,None,60997.79
+MID_100870,2025-10-30 10:42:00,Control (Legacy Flow),Partnership,Healthcare / Education,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,17952.66
+MID_100871,2025-12-22 19:43:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,20730.91
+MID_100872,2025-11-18 09:41:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Tamil Nadu,Tier-1,True,True,True,True,False,False,,,None,126774.49
+MID_100873,2025-12-28 18:27:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,283666.59
+MID_100874,2025-10-16 08:23:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,48194.07
+MID_100875,2025-11-20 10:13:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,572239.24
+MID_100876,2025-12-11 20:31:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Telangana,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,65246.1
+MID_100877,2025-12-21 11:08:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,318958.55
+MID_100878,2025-12-19 09:18:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-19 12:30:00,3.2,None,301028.27
+MID_100879,2025-12-22 20:06:00,Control (Legacy Flow),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,419202.71
+MID_100880,2025-11-11 18:21:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-11 22:09:36,3.81,None,546497.36
+MID_100881,2025-10-17 20:39:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Healthcare / Education,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-10-17 23:27:00,2.8,None,249642.57
+MID_100882,2025-12-02 10:38:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,180216.65
+MID_100883,2025-11-14 14:09:00,Control (Legacy Flow),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,829553.65
+MID_100884,2025-12-16 10:53:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Gujarat,Tier-2,True,True,True,True,True,False,,,None,112803.33
+MID_100885,2025-10-07 19:49:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-07 20:25:36,0.61,None,834748.44
+MID_100886,2025-10-27 17:51:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-10-27 19:04:12,1.22,None,32050.2
+MID_100887,2025-10-10 10:46:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,16126.78
+MID_100888,2025-11-03 08:26:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,214486.77
+MID_100889,2025-11-05 13:43:00,Control (Legacy Flow),LLP,Healthcare / Education,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,22817.94
+MID_100890,2025-10-25 11:28:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Telangana,Tier-1,True,True,True,True,True,False,,,None,313350.9
+MID_100891,2025-10-06 17:18:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Gujarat,Tier-2,True,True,True,True,True,True,2025-10-06 19:09:36,1.86,None,132032.25
+MID_100892,2025-10-24 20:47:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Healthcare / Education,Gujarat,Tier-2,True,True,True,True,True,True,2025-10-24 23:48:12,3.02,None,291980.29
+MID_100893,2025-10-18 20:28:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Karnataka,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,609732.2
+MID_100894,2025-12-26 16:15:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-12-26 23:31:12,7.27,None,42307.04
+MID_100895,2025-10-06 12:51:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,True,2025-10-06 14:07:12,1.27,None,73264.98
+MID_100896,2025-10-29 20:30:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,843564.35
+MID_100897,2025-10-25 13:43:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Rajasthan,Tier-2,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,1175969.35
+MID_100898,2025-11-24 15:49:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-24 19:06:24,3.29,None,214222.69
+MID_100899,2025-12-20 12:49:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,159111.76
+MID_100900,2025-11-15 16:33:00,Control (Legacy Flow),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,3367432.03
+MID_100901,2025-10-24 10:52:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,30458.32
+MID_100902,2025-12-14 20:38:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-14 22:53:36,2.26,None,532581.92
+MID_100903,2025-10-26 10:55:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,123865.36
+MID_100904,2025-10-28 08:41:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,32494.44
+MID_100905,2025-10-03 15:55:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Rajasthan,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,74831.78
+MID_100906,2025-12-14 16:59:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Logistics / Services,Gujarat,Tier-2,True,True,True,True,True,True,2025-12-14 18:11:36,1.21,None,319953.79
+MID_100907,2025-11-07 09:45:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,True,False,False,,,None,698330.0
+MID_100908,2025-11-30 16:54:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-30 17:43:12,0.82,None,215693.07
+MID_100909,2025-12-17 09:18:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,104912.44
+MID_100910,2025-11-20 20:10:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,59863.22
+MID_100911,2025-12-29 15:57:00,Control (Legacy Flow),Partnership,Retail / D2C,Karnataka,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,105654.68
+MID_100912,2025-11-17 14:05:00,Control (Legacy Flow),LLP,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-11-19 08:51:12,42.77,None,739868.57
+MID_100913,2025-10-21 11:52:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,190335.37
+MID_100914,2025-11-23 15:56:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Delhi NCR,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,56085.27
+MID_100915,2025-11-25 08:26:00,Control (Legacy Flow),Private Limited,F&B / Hospitality,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,58010.83
+MID_100916,2025-11-28 08:25:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,F&B / Hospitality,Karnataka,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,45335.23
+MID_100917,2025-12-11 11:24:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Uttar Pradesh,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,71045.01
+MID_100918,2025-11-20 13:14:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Telangana,Tier-1,True,True,True,True,False,False,,,None,32794.57
+MID_100919,2025-10-20 08:20:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,462013.39
+MID_100920,2025-12-25 19:41:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Rajasthan,Tier-2,True,True,True,True,True,False,,,None,271451.13
+MID_100921,2025-11-28 13:50:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,547863.92
+MID_100922,2025-12-10 10:08:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Rajasthan,Tier-2,True,False,False,False,False,False,,,PAN Not Found in NSDL,3151184.26
+MID_100923,2025-10-09 12:58:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Gujarat,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,43646.24
+MID_100924,2025-10-01 19:53:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-10-02 00:18:12,4.42,None,61181.14
+MID_100925,2025-10-29 10:48:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,36977.61
+MID_100926,2025-12-02 15:39:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Karnataka,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,26642.34
+MID_100927,2025-12-11 09:01:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,72838.27
+MID_100928,2025-11-25 12:13:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Tamil Nadu,Tier-1,True,True,True,True,False,False,,,None,34854.6
+MID_100929,2025-12-07 10:35:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,66959.26
+MID_100930,2025-11-04 09:49:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,108770.71
+MID_100931,2025-10-03 11:19:00,Control (Legacy Flow),Private Limited,F&B / Hospitality,Gujarat,Tier-2,True,False,False,False,False,False,,,PAN Not Found in NSDL,250284.69
+MID_100932,2025-10-07 08:15:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Retail / D2C,Kerala,Tier-3,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,42168.3
+MID_100933,2025-10-27 18:50:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,182095.0
+MID_100934,2025-10-01 15:04:00,Control (Legacy Flow),Private Limited,F&B / Hospitality,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,46734.19
+MID_100935,2025-12-30 15:38:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Karnataka,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,774861.05
+MID_100936,2025-12-19 08:40:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,51116.72
+MID_100937,2025-12-10 16:36:00,Control (Legacy Flow),Partnership,SaaS / B2B Tech,Uttar Pradesh,Tier-2,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,22994.59
+MID_100938,2025-11-13 19:09:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,571764.22
+MID_100939,2025-12-26 14:00:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,46603.09
+MID_100940,2025-11-10 13:15:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-10 16:50:24,3.59,None,312573.73
+MID_100941,2025-12-14 17:26:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,308407.94
+MID_100942,2025-11-11 10:42:00,Control (Legacy Flow),Private Limited,Retail / D2C,Tamil Nadu,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,4947421.7
+MID_100943,2025-11-02 09:33:00,Control (Legacy Flow),Private Limited,F&B / Hospitality,Gujarat,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,112290.15
+MID_100944,2025-11-19 09:33:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,423776.4
+MID_100945,2025-12-02 16:32:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,980031.15
+MID_100946,2025-11-06 16:01:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,True,True,True,2025-11-06 19:41:48,3.68,None,219254.49
+MID_100947,2025-11-28 14:55:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Rajasthan,Tier-2,True,True,True,True,True,True,2025-11-28 16:40:36,1.76,None,65914.05
+MID_100948,2025-12-20 15:02:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Rajasthan,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,118831.07
+MID_100949,2025-11-17 14:23:00,Control (Legacy Flow),Proprietorship,Logistics / Services,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-11-19 12:14:36,45.86,None,141042.27
+MID_100950,2025-10-05 12:47:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Tamil Nadu,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,726103.62
+MID_100951,2025-11-17 13:50:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-11-17 15:30:48,1.68,None,356024.08
+MID_100952,2025-10-03 09:22:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Maharashtra,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,525367.54
+MID_100953,2025-11-16 19:42:00,Control (Legacy Flow),Private Limited,SaaS / B2B Tech,Uttar Pradesh,Tier-2,True,True,True,False,False,False,,,UIDAI OTP Timeout,1919819.25
+MID_100954,2025-12-01 20:37:00,Control (Legacy Flow),LLP,Logistics / Services,Delhi NCR,Tier-1,True,True,False,False,False,False,,,Beneficiary Name Mismatch,1303706.3
+MID_100955,2025-10-14 20:21:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,F&B / Hospitality,Karnataka,Tier-1,True,True,True,True,True,False,,,None,364349.58
+MID_100956,2025-12-02 10:02:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Delhi NCR,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,169894.43
+MID_100957,2025-11-30 16:21:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,True,True,False,False,,,None,132478.69
+MID_100958,2025-10-31 18:11:00,Control (Legacy Flow),Private Limited,Retail / D2C,Maharashtra,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,90361.89
+MID_100959,2025-10-17 15:44:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Telangana,Tier-1,True,True,True,True,False,False,,,None,20782.78
+MID_100960,2025-10-24 15:40:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,212320.94
+MID_100961,2025-10-23 20:08:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Tamil Nadu,Tier-1,True,True,True,True,True,False,,,None,81067.7
+MID_100962,2025-12-21 09:45:00,Control (Legacy Flow),Partnership,Retail / D2C,Karnataka,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,642495.95
+MID_100963,2025-11-19 08:18:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-19 10:03:36,1.76,None,53247.99
+MID_100964,2025-12-17 11:02:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Karnataka,Tier-1,True,True,True,True,False,False,,,None,96767.17
+MID_100965,2025-12-18 20:12:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,F&B / Hospitality,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-18 21:34:48,1.38,None,227329.58
+MID_100966,2025-12-18 08:20:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Telangana,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,1528733.38
+MID_100967,2025-12-09 16:25:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-18 04:48:24,204.39,None,1108401.02
+MID_100968,2025-10-27 16:30:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Tamil Nadu,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,346488.26
+MID_100969,2025-10-15 08:48:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,True,True,2025-10-24 07:47:24,214.99,None,175661.75
+MID_100970,2025-11-19 18:12:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,True,True,2025-11-19 21:16:12,3.07,None,55507.64
+MID_100971,2025-11-05 12:22:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Uttar Pradesh,Tier-2,True,True,True,False,False,False,,,UIDAI OTP Timeout,69391.69
+MID_100972,2025-10-08 18:21:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Telangana,Tier-1,True,False,False,False,False,False,,,GSTIN Entity Name Mismatch,56687.64
+MID_100973,2025-12-18 09:51:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,30862.66
+MID_100974,2025-10-03 14:56:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Maharashtra,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,68682.86
+MID_100975,2025-12-01 19:28:00,Variant (Smart KYC + Instant Dev Sandbox),LLP,Retail / D2C,Karnataka,Tier-1,True,True,True,True,True,True,2025-12-01 20:08:48,0.68,None,69047.88
+MID_100976,2025-11-16 14:21:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,29716.78
+MID_100977,2025-12-16 15:44:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,True,True,True,True,2025-12-16 17:09:48,1.43,None,18840.61
+MID_100978,2025-12-27 15:23:00,Control (Legacy Flow),Partnership,F&B / Hospitality,Delhi NCR,Tier-1,True,False,False,False,False,False,,,OCR Low Quality / Blur,390719.1
+MID_100979,2025-11-30 12:51:00,Control (Legacy Flow),Partnership,Logistics / Services,Tamil Nadu,Tier-1,True,True,True,False,False,False,,,UIDAI OTP Timeout,34701.57
+MID_100980,2025-11-01 19:27:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,True,True,2025-11-01 23:02:24,3.59,None,157163.63
+MID_100981,2025-10-13 09:27:00,Variant (Smart KYC + Instant Dev Sandbox),Partnership,Retail / D2C,Telangana,Tier-1,True,True,True,True,False,False,,,None,122837.95
+MID_100982,2025-10-01 17:52:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Maharashtra,Tier-1,True,True,True,True,True,False,,,None,91371.57
+MID_100983,2025-11-03 10:34:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,73299.93
+MID_100984,2025-12-01 13:06:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,SaaS / B2B Tech,Telangana,Tier-1,True,True,True,True,True,True,2025-12-01 13:46:48,0.68,None,4439.21
+MID_100985,2025-12-18 09:20:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Logistics / Services,Delhi NCR,Tier-1,True,True,True,True,True,False,,,None,384563.28
+MID_100986,2025-12-17 18:18:00,Control (Legacy Flow),Private Limited,Retail / D2C,Telangana,Tier-1,True,True,True,False,False,False,,,Aadhaar Mobile Unlinked,960027.42
+MID_100987,2025-12-21 15:38:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Delhi NCR,Tier-1,True,True,True,True,False,False,,,None,184104.35
+MID_100988,2025-12-10 19:27:00,Control (Legacy Flow),Proprietorship,F&B / Hospitality,Karnataka,Tier-1,True,True,True,True,False,False,,,None,9195.02
+MID_100989,2025-10-31 10:44:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,Healthcare / Education,Gujarat,Tier-2,True,True,False,False,False,False,,,IFSC Branch Inactive,61466.84
+MID_100990,2025-12-03 13:28:00,Control (Legacy Flow),Private Limited,Retail / D2C,Gujarat,Tier-2,True,False,False,False,False,False,,,PAN Not Found in NSDL,46832.64
+MID_100991,2025-10-25 19:55:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Telangana,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,555110.86
+MID_100992,2025-11-07 17:27:00,Variant (Smart KYC + Instant Dev Sandbox),Private Limited,SaaS / B2B Tech,Karnataka,Tier-1,True,True,True,True,False,False,,,None,630613.27
+MID_100993,2025-10-14 12:40:00,Control (Legacy Flow),Proprietorship,SaaS / B2B Tech,Tamil Nadu,Tier-1,True,True,True,True,False,False,,,None,14159.28
+MID_100994,2025-10-08 20:03:00,Control (Legacy Flow),Private Limited,Retail / D2C,Karnataka,Tier-1,True,False,False,False,False,False,,,PAN Not Found in NSDL,287813.67
+MID_100995,2025-12-30 18:40:00,Control (Legacy Flow),Private Limited,Healthcare / Education,Maharashtra,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,460218.99
+MID_100996,2025-11-23 13:32:00,Control (Legacy Flow),LLP,Retail / D2C,Uttar Pradesh,Tier-2,True,True,False,False,False,False,,,Beneficiary Name Mismatch,203125.42
+MID_100997,2025-10-02 18:10:00,Control (Legacy Flow),Proprietorship,Retail / D2C,Maharashtra,Tier-1,True,True,False,False,False,False,,,Penny Drop IMPS Timeout,400210.08
+MID_100998,2025-12-20 10:54:00,Variant (Smart KYC + Instant Dev Sandbox),Proprietorship,Retail / D2C,West Bengal,Tier-2,True,True,True,True,True,True,2025-12-20 12:45:00,1.85,None,246214.91
+MID_100999,2025-12-17 17:43:00,Control (Legacy Flow),Proprietorship,Healthcare / Education,Delhi NCR,Tier-1,True,True,False,False,False,False,,,IFSC Branch Inactive,15395.31
